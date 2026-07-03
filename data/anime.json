@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783054808,
+  "updated_at": 1783071107,
   "entries": [
     {
       "id": 53762,
@@ -720,6 +720,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 62957,
+      "title": "Bai Ri Cheng Wang",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1697/158621.jpg?s=c05e634f94b19798559e119ed7bbda50",
+      "url": "https://myanimelist.net/anime/62957/Bai_Ri_Cheng_Wang",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 4,
+      "episodes_total": 25
     },
     {
       "id": 6347,
@@ -7142,6 +7152,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63150,
+      "title": "Otome Kaijuu Caraméliser",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1981/156340.jpg?s=37ba6e0797750c9c17883fc79d40c615",
+      "url": "https://myanimelist.net/anime/63150/Otome_Kaijuu_Caraméliser",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 51705,
       "title": "Otonari ni Ginga",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1091/135041.jpg?s=5e509732c69daa603c66236168dd25d3",
@@ -9582,6 +9602,16 @@
       "episodes_total": 12
     },
     {
+      "id": 59741,
+      "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1322/158711.jpg?s=df0596fb79eebd0076f96dea98b26b50",
+      "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 26
+    },
+    {
       "id": 60523,
       "title": "Tsuihousha Shokudou e Youkoso!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1313/149355.jpg?s=f096e65a31107f1c02c7e39424301acb",
@@ -9939,7 +9969,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 13
     },
     {
       "id": 24405,
@@ -10150,6 +10180,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 63403,
+      "title": "Yani Neko",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1281/156496.jpg?s=8ed62ca5c3da11c1a7bafaf263255c20",
+      "url": "https://myanimelist.net/anime/63403/Yani_Neko",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 55150,
@@ -13460,16 +13500,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 0
-    },
-    {
-      "id": 59741,
-      "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1322/158711.jpg?s=df0596fb79eebd0076f96dea98b26b50",
-      "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 26
     }
   ]
 }
