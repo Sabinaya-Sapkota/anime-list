@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783071107,
+  "updated_at": 1783154892,
   "entries": [
     {
       "id": 53762,
@@ -3092,6 +3092,16 @@
       "episodes_total": 12
     },
     {
+      "id": 61943,
+      "title": "Haibara-kun no Tsuyokute Seishun New Game",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1401/156048.jpg?s=5f9e50b4aac4c7b30aa571a86f91d663",
+      "url": "https://myanimelist.net/anime/61943/Haibara-kun_no_Tsuyokute_Seishun_New_Game",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 56420,
       "title": "Haigakura",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1214/142185.jpg?s=85c2c04a98169369f78634841517b976",
@@ -3300,6 +3310,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 63817,
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1534/156314.jpg?s=feaa77983b4aa83be14291a74f8b0ff0",
+      "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 38816,
@@ -5142,6 +5162,16 @@
       "episodes_total": 12
     },
     {
+      "id": 62617,
+      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1371/154308.jpg?s=d126f55b338c3ee75a1b1109ad63ad8a",
+      "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 48926,
       "title": "Komi-san wa, Comyushou desu.",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1899/117237.jpg?s=1ae3e5a7671ca90a21a816e207796484",
@@ -5219,6 +5249,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 61280,
+      "title": "Kore Kaite Shine",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1649/154997.jpg?s=45bf38cbe88cbf2407a66c8f23d14e9d",
+      "url": "https://myanimelist.net/anime/61280/Kore_Kaite_Shine",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -7452,6 +7492,16 @@
       "episodes_total": 12
     },
     {
+      "id": 37202,
+      "title": "Radiant",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1318/95345.jpg?s=7197d1c9ce58f7b7fd101cccb743248d",
+      "url": "https://myanimelist.net/anime/37202/Radiant",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 21
+    },
+    {
       "id": 51297,
       "title": "Ragna Crimson",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1763/140359.jpg?s=2bb25af6d5d8823022b4d342d29577c1",
@@ -7780,6 +7830,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 23
+    },
+    {
+      "id": 62078,
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1891/158566.jpg?s=7bea119164c9bf828dac77473e219efc",
+      "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 54760,
@@ -9288,7 +9348,7 @@
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 12,
+      "episodes_watched": 13,
       "episodes_total": 0
     },
     {
@@ -9682,6 +9742,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63061,
+      "title": "Uchi no Otouto-domo ga Sumimasen",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1902/156345.jpg?s=c14ddb8399a3ccf1cca1c05f9ab43607",
+      "url": "https://myanimelist.net/anime/63061/Uchi_no_Otouto-domo_ga_Sumimasen",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 24
+    },
+    {
       "id": 36267,
       "title": "Uchuu Senkan Tiramisù",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1864/93615.jpg?s=e1ec3b3c2724660badab9b9d5232e18d",
@@ -9789,6 +9859,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 63468,
+      "title": "Ushiro no Shoumen Kamui-san",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1071/158366.jpg?s=411877a399d430eb81fa945528cabb5c",
+      "url": "https://myanimelist.net/anime/63468/Ushiro_no_Shoumen_Kamui-san",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -11558,7 +11638,7 @@
       "url": "https://myanimelist.net/anime/54449/Ishura",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -12398,7 +12478,7 @@
       "url": "https://myanimelist.net/anime/40834/Ousama_Ranking",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 23,
       "episodes_total": 23
     },
     {
