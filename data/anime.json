@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783243110,
+  "updated_at": 1783335319,
   "entries": [
     {
       "id": 63537,
@@ -4424,7 +4424,7 @@
     {
       "id": 62981,
       "title": "Kami no Shizuku",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1045/155698.jpg?s=6d8f70514ef6005465a4a1ecd41f295b",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1863/158831.jpg?s=a6871eabe9095c441cd0a241d7df7ace",
       "url": "https://myanimelist.net/anime/62981/Kami_no_Shizuku",
       "status": "watching",
       "score": 0,
@@ -6632,23 +6632,13 @@
       "episodes_total": 12
     },
     {
-      "id": 55888,
-      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1876/141251.jpg?s=f2f66c5c2903f75be4c965042e4a8975",
-      "url": "https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 1,
-      "episodes_total": 12
-    },
-    {
       "id": 59193,
       "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1527/158340.jpg?s=e012dfde3e82418c55be96baaf487f76",
       "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -6890,6 +6880,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62856,
+      "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1068/158475.jpg?s=0a612f0cdfc63b5245461b892a382747",
+      "url": "https://myanimelist.net/anime/62856/Nijusseiki_Denki_Mokuroku__Eureka_Evrika",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 13
     },
     {
       "id": 56285,
@@ -7962,6 +7962,16 @@
       "episodes_total": 12
     },
     {
+      "id": 62876,
+      "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1116/157083.jpg?s=8b99db358f2b2c147e9a010905977e9b",
+      "url": "https://myanimelist.net/anime/62876/Saijo_no_Osewa__Takane_no_Hanadarake_na_Meimonkou_de_Gakuin_Ichi_no_Ojousama_Seikatsu_Nouryoku_Kaimu_wo_Kagenagara_Osewa_suru_Koto_ni_Narimashita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
+    },
+    {
       "id": 33255,
       "title": "Saiki Kusuo no Ψ-nan",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1973/142750.jpg?s=7df52dc248549c6389ede8f1ac4bda00",
@@ -8250,6 +8260,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 62435,
+      "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1380/157378.jpg?s=0de33d456c567d716f56be530f736d83",
+      "url": "https://myanimelist.net/anime/62435/Sekai_Saikyou_no_Kouei__Meikyuukoku_no_Shinjin_Tansakusha",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
     },
     {
       "id": 199,
@@ -9482,6 +9502,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63100,
+      "title": "Tetsunabe no Jan!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1961/158686.jpg?s=9213c5878df23e4c70d6cecfafbced7d",
+      "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 55911,
       "title": "The Fable",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1254/141155.jpg?s=fa232e4489863ab87fcb0a86e34be5b5",
@@ -10476,16 +10506,6 @@
       "title": "You Yao",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1821/108124.jpg?s=ff8bfdd4c800a6b16d22c60d4144826d",
       "url": "https://myanimelist.net/anime/41916/You_Yao",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 32615,
-      "title": "Youjo Senki",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/82890.jpg?s=b64f06c15c2eaa9d8717494e4b30138d",
-      "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -12412,6 +12432,16 @@
       "episodes_total": 1
     },
     {
+      "id": 55888,
+      "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1876/141251.jpg?s=f2f66c5c2903f75be4c965042e4a8975",
+      "url": "https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 39535,
       "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1530/117776.jpg?s=2c0d611bea033f393998793b9dca7732",
@@ -13582,6 +13612,16 @@
       "episodes_total": 13
     },
     {
+      "id": 32615,
+      "title": "Youjo Senki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/82890.jpg?s=b64f06c15c2eaa9d8717494e4b30138d",
+      "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 35507,
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/86830.jpg?s=b4f4f8a7a3e05334c6b1e46a4f13d850",
@@ -13716,6 +13756,16 @@
       "title": "Tensei shitara Slime Datta Ken 4th Season Part 2",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1803/154473.jpg?s=aff5bec26b6a451f7a1b9829b42a8f98",
       "url": "https://myanimelist.net/anime/63129/Tensei_shitara_Slime_Datta_Ken_4th_Season_Part_2",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 62936,
+      "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1145/158339.jpg?s=6a90a4ce817e4fbff414337f26107e02",
+      "url": "https://myanimelist.net/anime/62936/Toumei_na_Yoru_ni_Kakeru_Kimi_to_Me_ni_Mienai_Koi_wo_Shita",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
