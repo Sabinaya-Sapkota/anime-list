@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783335319,
+  "updated_at": 1783418219,
   "entries": [
     {
       "id": 63537,
@@ -2499,7 +2499,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 1281,
@@ -3810,6 +3810,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 58919,
+      "title": "Hyakuemu.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1259/151080.jpg?s=f84c0b00d724745aaa1eff106d929bdb",
+      "url": "https://myanimelist.net/anime/58919/Hyakuemu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 37446,
@@ -5219,7 +5229,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 48926,
@@ -6639,7 +6649,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 2,
-      "episodes_total": 0
+      "episodes_total": 14
     },
     {
       "id": 60619,
@@ -7982,6 +7992,16 @@
       "episodes_total": 120
     },
     {
+      "id": 56736,
+      "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1529/158522.jpg?s=18e1ac2011feaef9450349dd58184089",
+      "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
+    },
+    {
       "id": 62825,
       "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1632/155095.jpg?s=a8187c41b0eb04d97b10fc4e5b06e348",
@@ -9142,6 +9162,16 @@
       "episodes_total": 0
     },
     {
+      "id": 63752,
+      "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1417/157798.jpg?s=f79ec0eb90ee70f6b14b8b2f4f0e32c1",
+      "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
+    },
+    {
       "id": 849,
       "title": "Suzumiya Haruhi no Yuuutsu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1470/137929.jpg?s=4d21d91fe36bfb9040c7408063f07f19",
@@ -9412,6 +9442,16 @@
       "episodes_total": 1
     },
     {
+      "id": 56735,
+      "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1352/158564.jpg?s=dca98e6ee2652f27fb40238c91e62f97",
+      "url": "https://myanimelist.net/anime/56735/Tenkou-saki_no_Seiso_Karen_na_Bishoujo_ga_Mukashi_Danshi_to_Omotte_Issho_ni_Asonda_Osananajimi_Datta_Ken",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
+    },
+    {
       "id": 43690,
       "title": "Tenkuu Shinpan",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1547/117947.jpg?s=fd4a9e82038d20c7ee50922595cb15d5",
@@ -9424,7 +9464,7 @@
     {
       "id": 61483,
       "title": "Tenmaku no Jaadugar",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1368/158227.jpg?s=4979db44a5fd2a3e7a25639f87316593",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1098/158891.jpg?s=150de98863da57d362638e0061410103",
       "url": "https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar",
       "status": "watching",
       "score": 0,
@@ -9740,6 +9780,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62936,
+      "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1145/158339.jpg?s=6a90a4ce817e4fbff414337f26107e02",
+      "url": "https://myanimelist.net/anime/62936/Toumei_na_Yoru_ni_Kakeru_Kimi_to_Me_ni_Mienai_Koi_wo_Shita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 56662,
@@ -10492,6 +10542,16 @@
       "episodes_total": 24
     },
     {
+      "id": 61830,
+      "title": "Yoroi Shin Den Samurai Troopers",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1289/153952.jpg?s=9bcda4be322a89cfcf7da06f3cc7f2a3",
+      "url": "https://myanimelist.net/anime/61830/Yoroi_Shin_Den_Samurai_Troopers",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 54839,
       "title": "Yoru no Kurage wa Oyogenai",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1834/141827.jpg?s=c632e842175160f857e104d7fac9ee11",
@@ -10510,6 +10570,26 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 49233,
+      "title": "Youjo Senki II",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1917/158371.jpg?s=64b27741fbda13fdfd9be2be04e7c3af",
+      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 37055,
+      "title": "Youjo Senki Movie",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1249/117182.jpg?s=b4d90c0138b7bcd41b917f509979f5b2",
+      "url": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 57533,
@@ -13762,10 +13842,10 @@
       "episodes_total": 0
     },
     {
-      "id": 62936,
-      "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1145/158339.jpg?s=6a90a4ce817e4fbff414337f26107e02",
-      "url": "https://myanimelist.net/anime/62936/Toumei_na_Yoru_ni_Kakeru_Kimi_to_Me_ni_Mienai_Koi_wo_Shita",
+      "id": 63047,
+      "title": "Yoroi Shin Den Samurai Troopers Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1996/158323.jpg?s=cf3c183d6754cf65f05ae4712dbce3fc",
+      "url": "https://myanimelist.net/anime/63047/Yoroi_Shin_Den_Samurai_Troopers_Part_2",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
