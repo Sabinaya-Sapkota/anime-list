@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783418219,
+  "updated_at": 1783500062,
   "entries": [
     {
       "id": 63537,
@@ -6362,6 +6362,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63878,
+      "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1491/157799.jpg?s=c7bd4b50797a4501abfe5a7813133120",
+      "url": "https://myanimelist.net/anime/63878/Migawari_Reijou_wo_Sukutta_no_wa_Reikoku_Mujihi_na_Koori_no_Ouji_no_Ai_deshita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 50586,
       "title": "Migi to Dali",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1845/134817.jpg?s=f112e07881f6898a25178c142178c03d",
@@ -6568,7 +6578,7 @@
       "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -9272,6 +9282,16 @@
       "episodes_total": 12
     },
     {
+      "id": 46488,
+      "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1343/156268.jpg?s=0ed30c83425c3fdc5fde7c5bcc83d95f",
+      "url": "https://myanimelist.net/anime/46488/Tai-Ari_deshita_Ojousama_wa_Kakutou_Game_nante_Shinai",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 49942,
       "title": "Tales of Luminaria: The Fateful Crossroad",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1544/120624.jpg?s=8344cf6a46b308907a6eb31e932a9dee",
@@ -9390,6 +9410,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62476,
+      "title": "Tefuda ga Oome no Victoria",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1098/158743.jpg?s=3d162f119265d75a2a8d3c29554f20c5",
+      "url": "https://myanimelist.net/anime/62476/Tefuda_ga_Oome_no_Victoria",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 6444,
@@ -11258,7 +11288,7 @@
       "url": "https://myanimelist.net/anime/50549/Bubble",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 1
     },
     {
@@ -13262,6 +13292,16 @@
       "episodes_total": 13
     },
     {
+      "id": 50594,
+      "title": "Suzume no Tojimari",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1598/128450.jpg?s=aedb2aa747318b2a07d797d3b29e3301",
+      "url": "https://myanimelist.net/anime/50594/Suzume_no_Tojimari",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 1
+    },
+    {
       "id": 11757,
       "title": "Sword Art Online",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/39717.jpg?s=55f88992df908bdcb872db3a398aea49",
@@ -13849,7 +13889,7 @@
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
-      "episodes_total": 0
+      "episodes_total": 12
     }
   ]
 }
