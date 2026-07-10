@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783591449,
+  "updated_at": 1783676994,
   "entries": [
     {
       "id": 63537,
@@ -6302,6 +6302,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63802,
+      "title": "Mebius Dust",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1891/158352.jpg?s=6474c825ebac783bcce6fd13a41ab090",
+      "url": "https://myanimelist.net/anime/63802/Mebius_Dust",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 53033,
       "title": "Mecha-ude (TV)",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1079/145918.jpg?s=3769d1822174ef63f1e0f792d60e2c57",
@@ -7388,7 +7398,7 @@
       "url": "https://myanimelist.net/anime/63150/Otome_Kaijuu_Caraméliser",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -7738,7 +7748,7 @@
       "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -9269,7 +9279,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 63752,
@@ -9968,7 +9978,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 26
     },
     {
