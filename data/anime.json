@@ -1,5 +1,5 @@
 {
-  "updated_at": 1783676994,
+  "updated_at": 1783757244,
   "entries": [
     {
       "id": 63537,
@@ -5288,7 +5288,7 @@
       "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -8048,7 +8048,7 @@
       "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -9312,6 +9312,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63736,
+      "title": "Sword Art Online: Unanswered//butterfly",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1111/158814.jpg?s=10a65829d2ae533d56bfc17a7926d864",
+      "url": "https://myanimelist.net/anime/63736/Sword_Art_Online__Unanswered__butterfly",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 27783,
       "title": "Sword Gai The Animation",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/7/89759.jpg?s=f6a657f83fe06e9b3a4bc4dbb0bdf98d",
@@ -9638,7 +9648,7 @@
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 13,
+      "episodes_watched": 14,
       "episodes_total": 0
     },
     {
