@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784017310,
+  "updated_at": 1784104101,
   "entries": [
     {
       "id": 63537,
@@ -992,6 +992,26 @@
       "episodes_total": 12
     },
     {
+      "id": 55690,
+      "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1643/138581.jpg?s=8252809dd5bef67a0656af6870774354",
+      "url": "https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 59985,
+      "title": "Boku no Kokoro no Yabai Yatsu Movie",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1678/153935.jpg?s=0ab4303f4eda8d25e6666fda3b44dc07",
+      "url": "https://myanimelist.net/anime/59985/Boku_no_Kokoro_no_Yabai_Yatsu_Movie",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 58272,
       "title": "Boku no Tsuma wa Kanjou ga Nai",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1101/143646.jpg?s=8d6eb09b689c97aac4dbb25251eacd16",
@@ -1458,7 +1478,7 @@
       "url": "https://myanimelist.net/anime/59205/Clevatess__Majuu_no_Ou_to_Akago_to_Shikabane_no_Yuusha",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -6478,7 +6498,7 @@
       "url": "https://myanimelist.net/anime/63878/Migawari_Reijou_wo_Sukutta_no_wa_Reikoku_Mujihi_na_Koori_no_Ouji_no_Ai_deshita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -6688,7 +6708,7 @@
       "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -9558,7 +9578,7 @@
       "url": "https://myanimelist.net/anime/62476/Tefuda_ga_Oome_no_Victoria",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -10298,7 +10318,7 @@
       "url": "https://myanimelist.net/anime/61642/Wan_Ren_Zhi_Shang",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 6,
+      "episodes_watched": 8,
       "episodes_total": 14
     },
     {
@@ -13996,6 +14016,16 @@
       "title": "Blue Lock: Neo Egoist League",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1326/158413.jpg?s=dbcda641d939cb688a7c98b52b554e43",
       "url": "https://myanimelist.net/anime/62589/Blue_Lock__Neo_Egoist_League",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 63735,
+      "title": "Boku no Kokoro no Yabai Yatsu 3rd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1146/156101.jpg?s=407201a6a0163fe75288d3faaf645b92",
+      "url": "https://myanimelist.net/anime/63735/Boku_no_Kokoro_no_Yabai_Yatsu_3rd_Season",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
