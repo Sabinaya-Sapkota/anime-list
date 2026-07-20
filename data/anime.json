@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784449788,
+  "updated_at": 1784539823,
   "entries": [
     {
       "id": 63537,
@@ -938,7 +938,7 @@
       "url": "https://myanimelist.net/anime/61169/Black_Torch",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -3812,6 +3812,16 @@
       "episodes_total": 4
     },
     {
+      "id": 35557,
+      "title": "Houseki no Kuni",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/88293.jpg?s=6aed03abbcf4586ff71866e89e742bdb",
+      "url": "https://myanimelist.net/anime/35557/Houseki_no_Kuni",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 33396,
       "title": "Hua Jianghu: Bu Liang Ren",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1239/153711.jpg?s=fcfa67b381af8e26df5aebc0de8c38f6",
@@ -3830,6 +3840,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 136,
+      "title": "Hunter x Hunter",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1305/132237.jpg?s=10f97c443ae4a65b8f9aa00278e14f8c",
+      "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 62
     },
     {
       "id": 31499,
@@ -4158,7 +4178,7 @@
       "url": "https://myanimelist.net/anime/63324/Iwamoto-senpai_no_Suisen",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -6572,6 +6592,16 @@
       "episodes_total": 1
     },
     {
+      "id": 32182,
+      "title": "Mob Psycho 100",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/8/80356.jpg?s=4c98a3ed436e8096e05d8c01d1e63a10",
+      "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 55998,
       "title": "Momochi-san Chi no Ayakashi Ouji",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1207/140800.jpg?s=8bf127d635726d8ca7dcb29bf2ef6734",
@@ -7252,6 +7282,16 @@
       "episodes_total": 1
     },
     {
+      "id": 30276,
+      "title": "One Punch Man",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/76049.jpg?s=8a6af524cfe586d8c6099dbbf2803294",
+      "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 52807,
       "title": "One Punch Man 3",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1168/148347.jpg?s=25b71dbcc633227b1ff6a32670377eaf",
@@ -7680,6 +7720,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 13601,
+      "title": "Psycho-Pass",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1314/142015.jpg?s=45ef034a08f69f41c9d5bfa247367bcd",
+      "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 22
     },
     {
       "id": 28617,
@@ -8448,7 +8498,7 @@
       "url": "https://myanimelist.net/anime/62435/Sekai_Saikyou_no_Kouei__Meikyuukoku_no_Shinjin_Tansakusha",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -9738,7 +9788,7 @@
       "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -12198,7 +12248,7 @@
       "url": "https://myanimelist.net/anime/40221/Kami_no_Tou",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 13,
       "episodes_total": 13
     },
     {
