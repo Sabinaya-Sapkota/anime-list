@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784539823,
+  "updated_at": 1784623245,
   "entries": [
     {
       "id": 63537,
@@ -8,7 +8,7 @@
       "url": "https://myanimelist.net/anime/63537/Kimi_wo_Aisuru_Ki_wa_Nai_to_Itta_Jiki_Koushaku-sama_ga_Nazeka_Dekiai_shitekimasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -1108,7 +1108,7 @@
       "url": "https://myanimelist.net/anime/62289/Buchigire_Reijou_wa_Houfuku_wo_Chikaimashita_Madousho_no_Chikara_de_Sokoku_wo_Tatakitsubushimasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -2390,6 +2390,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 6
+    },
+    {
+      "id": 64459,
+      "title": "Fool Night",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1977/158669.jpg?s=ff5d989267dbf6dc87d750939f13cf86",
+      "url": "https://myanimelist.net/anime/64459/Fool_Night",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
     },
     {
       "id": 18507,
@@ -8208,7 +8218,7 @@
       "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -14100,6 +14110,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 0
+    },
+    {
+      "id": 55566,
+      "title": "Wasted Chef",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1929/158065.jpg?s=135a3972cf6707b83400b45f59d593ea",
+      "url": "https://myanimelist.net/anime/55566/Wasted_Chef",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 1
     },
     {
       "id": 63047,
