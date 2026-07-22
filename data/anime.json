@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784623245,
+  "updated_at": 1784709610,
   "entries": [
     {
       "id": 63537,
@@ -2002,46 +2002,6 @@
       "episodes_total": 182
     },
     {
-      "id": 55644,
-      "title": "Dr. Stone: New World Part 2",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1236/138696.jpg?s=100ab6a109cba82731af402637a27d2d",
-      "url": "https://myanimelist.net/anime/55644/Dr_Stone__New_World_Part_2",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 11
-    },
-    {
-      "id": 57592,
-      "title": "Dr. Stone: Science Future",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1403/146479.jpg?s=724c1a6669c82f2106ee122628ea5665",
-      "url": "https://myanimelist.net/anime/57592/Dr_Stone__Science_Future",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 61322,
-      "title": "Dr. Stone: Science Future Part 2",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1785/151710.jpg?s=8bcfb0ec5bc046e9a52b088175ee1ed5",
-      "url": "https://myanimelist.net/anime/61322/Dr_Stone__Science_Future_Part_2",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 62568,
-      "title": "Dr. Stone: Science Future Part 3",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1773/155779.jpg?s=86dfd65dbbcb6d3c0e23dcf1f670242c",
-      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 13
-    },
-    {
       "id": 9330,
       "title": "Dragon Crisis!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/8/50311.jpg?s=af5a495ba8139eccae9f2a999f80913e",
@@ -2392,16 +2352,6 @@
       "episodes_total": 6
     },
     {
-      "id": 64459,
-      "title": "Fool Night",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1977/158669.jpg?s=ff5d989267dbf6dc87d750939f13cf86",
-      "url": "https://myanimelist.net/anime/64459/Fool_Night",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 0
-    },
-    {
       "id": 18507,
       "title": "Free!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/51107.jpg?s=c39a3476dd821e700e8ddf46c4597541",
@@ -2558,7 +2508,7 @@
       "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -4782,6 +4732,16 @@
       "episodes_total": 13
     },
     {
+      "id": 2593,
+      "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/21741.jpg?s=b462d556bfdbfa66e135df64924ee541",
+      "url": "https://myanimelist.net/anime/2593/Kara_no_Kyoukai_Movie_1__Fukan_Fuukei",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 3782,
       "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/21737.jpg?s=106886c338e1008ec023720cbe6d62d2",
@@ -6748,7 +6708,7 @@
       "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 0
     },
     {
@@ -10378,7 +10338,7 @@
       "url": "https://myanimelist.net/anime/61642/Wan_Ren_Zhi_Shang",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 14
     },
     {
@@ -11662,6 +11622,16 @@
       "episodes_total": 11
     },
     {
+      "id": 55644,
+      "title": "Dr. Stone: New World Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1236/138696.jpg?s=100ab6a109cba82731af402637a27d2d",
+      "url": "https://myanimelist.net/anime/55644/Dr_Stone__New_World_Part_2",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 11,
+      "episodes_total": 11
+    },
+    {
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1071/124921.jpg?s=9f8018d1fc0db2a73efb468c5c15e948",
@@ -11670,6 +11640,36 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 1
+    },
+    {
+      "id": 57592,
+      "title": "Dr. Stone: Science Future",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1403/146479.jpg?s=724c1a6669c82f2106ee122628ea5665",
+      "url": "https://myanimelist.net/anime/57592/Dr_Stone__Science_Future",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 61322,
+      "title": "Dr. Stone: Science Future Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1785/151710.jpg?s=8bcfb0ec5bc046e9a52b088175ee1ed5",
+      "url": "https://myanimelist.net/anime/61322/Dr_Stone__Science_Future_Part_2",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 62568,
+      "title": "Dr. Stone: Science Future Part 3",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1773/155779.jpg?s=86dfd65dbbcb6d3c0e23dcf1f670242c",
+      "url": "https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
+      "episodes_total": 13
     },
     {
       "id": 40852,
@@ -14092,6 +14092,16 @@
       "episodes_total": 0
     },
     {
+      "id": 64459,
+      "title": "Fool Night",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1977/158669.jpg?s=ff5d989267dbf6dc87d750939f13cf86",
+      "url": "https://myanimelist.net/anime/64459/Fool_Night",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
       "id": 62924,
       "title": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi 2nd Season",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1015/153530.jpg?s=a5a66abfa7e8cbec6b00f27d30a7b2b2",
@@ -14100,6 +14110,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 0
+    },
+    {
+      "id": 50668,
+      "title": "Mahoutsukai no Yoru",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1054/158927.jpg?s=d7951b87e5699ca55d56c8edd87ef484",
+      "url": "https://myanimelist.net/anime/50668/Mahoutsukai_no_Yoru",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 63129,
