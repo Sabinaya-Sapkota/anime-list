@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784709610,
+  "updated_at": 1784796111,
   "entries": [
     {
       "id": 63537,
@@ -3218,7 +3218,7 @@
       "url": "https://myanimelist.net/anime/54362/Hametsu_no_Oukoku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 8,
       "episodes_total": 12
     },
     {
@@ -4788,7 +4788,7 @@
       "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -5848,7 +5848,7 @@
       "url": "https://myanimelist.net/anime/62322/Lv999_no_Murabito",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -7438,7 +7438,7 @@
       "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -9348,7 +9348,7 @@
       "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -9469,7 +9469,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 49942,
@@ -9754,7 +9754,7 @@
     {
       "id": 63100,
       "title": "Tetsunabe no Jan!",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1961/158686.jpg?s=9213c5878df23e4c70d6cecfafbced7d",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1452/159112.jpg?s=a2255caed1f1aa8c16d59e61c2e23eae",
       "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
       "status": "watching",
       "score": 0,
@@ -11970,6 +11970,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 11
+    },
+    {
+      "id": 37497,
+      "title": "Irozuku Sekai no Ashita kara",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1424/93855.jpg?s=428b7019c7218435f1974893d20cd5e7",
+      "url": "https://myanimelist.net/anime/37497/Irozuku_Sekai_no_Ashita_kara",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
+      "episodes_total": 13
     },
     {
       "id": 52830,
