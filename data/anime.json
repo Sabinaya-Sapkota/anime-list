@@ -1,5 +1,5 @@
 {
-  "updated_at": 1784882270,
+  "updated_at": 1784967517,
   "entries": [
     {
       "id": 63537,
@@ -1788,7 +1788,7 @@
       "url": "https://myanimelist.net/anime/55717/Dekisokonai_to_Yobareta_Motoeiyuu_wa_Jikka_kara_Tsuihou_sareta_node_Sukikatte_ni_Ikiru_Koto_ni_Shita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -3388,7 +3388,7 @@
       "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 0
     },
     {
@@ -5308,7 +5308,7 @@
       "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
@@ -7918,7 +7918,7 @@
       "url": "https://myanimelist.net/anime/56228/Rekishi_ni_Nokoru_Akujo_ni_Naru_zo",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 5,
       "episodes_total": 13
     },
     {
@@ -8098,7 +8098,7 @@
       "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 0
     },
     {
@@ -9708,7 +9708,7 @@
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 15,
+      "episodes_watched": 16,
       "episodes_total": 24
     },
     {
@@ -10080,6 +10080,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 38573,
+      "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1225/102250.jpg?s=56a327ee0da789fb0f008edf0519ed7d",
+      "url": "https://myanimelist.net/anime/38573/Tsuujou_Kougeki_ga_Zentai_Kougeki_de_Ni-kai_Kougeki_no_Okaasan_wa_Suki_desu_ka",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 12
     },
     {
       "id": 49571,
