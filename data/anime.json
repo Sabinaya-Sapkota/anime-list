@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785228453,
+  "updated_at": 1785315113,
   "entries": [
     {
       "id": 63537,
@@ -1422,6 +1422,16 @@
       "episodes_total": 12
     },
     {
+      "id": 39175,
+      "title": "Cider no You ni Kotoba ga Wakiagaru",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1952/116031.jpg?s=2be42598e9a8e4c9665519200b3f41dc",
+      "url": "https://myanimelist.net/anime/39175/Cider_no_You_ni_Kotoba_ga_Wakiagaru",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 38409,
       "title": "Cike Wu Liuqi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1620/94968.jpg?s=ef1b14f68a77f3e765c4423f76fb98ca",
@@ -1516,6 +1526,16 @@
       "title": "Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1877/119101.jpg?s=8cb20ace8aa46f179e52f4e075b6ee80",
       "url": "https://myanimelist.net/anime/37910/Code_Realize_-_Sousei_no_Himegimi_-_Set_a_Thief_to_Catch_a_Thief",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
+      "id": 8142,
+      "title": "Colorful (Movie)",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1839/103426.jpg?s=45902b1185300378cce0ba41577e981f",
+      "url": "https://myanimelist.net/anime/8142/Colorful_Movie",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -5812,6 +5832,16 @@
       "episodes_total": 24
     },
     {
+      "id": 58125,
+      "title": "Look Back",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1716/142633.jpg?s=bd3f4e645b6567de9a26f2715f2644c5",
+      "url": "https://myanimelist.net/anime/58125/Look_Back",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 37601,
       "title": "Lord of Vermilion: Guren no Ou",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1557/95053.jpg?s=10761dbe348a63a006b2ed23d32a9473",
@@ -6698,7 +6728,7 @@
       "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -8512,6 +8542,16 @@
       "episodes_total": 13
     },
     {
+      "id": 1033,
+      "title": "Sennen Joyuu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1648/93626.jpg?s=47693f38953034f6abb26d0f09b4495f",
+      "url": "https://myanimelist.net/anime/1033/Sennen_Joyuu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 42351,
       "title": "Senpai ga Uzai Kouhai no Hanashi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1055/118890.jpg?s=26d7d22d72d4966063d7b1847535317b",
@@ -9310,6 +9350,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 48171,
+      "title": "Summer Ghost",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1651/117943.jpg?s=7ea49d378aa1f8258c8992ddbe3f02a4",
+      "url": "https://myanimelist.net/anime/48171/Summer_Ghost",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 50694,
