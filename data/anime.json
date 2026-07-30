@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785315113,
+  "updated_at": 1785400935,
   "entries": [
     {
       "id": 63537,
@@ -4798,7 +4798,7 @@
       "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 0
     },
     {
@@ -5772,6 +5772,16 @@
       "episodes_total": 13
     },
     {
+      "id": 63987,
+      "title": "Li Xiongmao",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1862/159050.jpg?s=44b718604ae6b0eeb04816e1f9071512",
+      "url": "https://myanimelist.net/anime/63987/Li_Xiongmao",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 3,
+      "episodes_total": 18
+    },
+    {
       "id": 62331,
       "title": "Liar Game",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1984/158634.jpg?s=ff78722713cee453f58d7bee3d388903",
@@ -5868,7 +5878,7 @@
       "url": "https://myanimelist.net/anime/62322/Lv999_no_Murabito",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 12
     },
     {
@@ -7458,7 +7468,7 @@
       "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
