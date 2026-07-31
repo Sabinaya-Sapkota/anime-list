@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785400935,
+  "updated_at": 1785489173,
   "entries": [
     {
       "id": 63537,
@@ -40,6 +40,26 @@
       "score": 0,
       "episodes_watched": 3,
       "episodes_total": 12
+    },
+    {
+      "id": 31646,
+      "title": "3-gatsu no Lion",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/82899.jpg?s=3f1326c0c39dd7c11b8f0b5fb873d3d7",
+      "url": "https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 22
+    },
+    {
+      "id": 35180,
+      "title": "3-gatsu no Lion 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/88469.jpg?s=7f1fa196f724070780755a44e30af80e",
+      "url": "https://myanimelist.net/anime/35180/3-gatsu_no_Lion_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 22
     },
     {
       "id": 55973,
@@ -116,6 +136,16 @@
       "title": "Absolute Duo",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/4/68839.jpg?s=680c21d9483cf7b635b72204e216ee6e",
       "url": "https://myanimelist.net/anime/25397/Absolute_Duo",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 33337,
+      "title": "ACCA: 13-ku Kansatsu-ka",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/83776.jpg?s=9615f93bde33c6ab36e46b563b66329d",
+      "url": "https://myanimelist.net/anime/33337/ACCA__13-ku_Kansatsu-ka",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -628,7 +658,7 @@
       "url": "https://myanimelist.net/anime/38572/Assassins_Pride",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -3982,6 +4012,16 @@
       "episodes_total": 13
     },
     {
+      "id": 58788,
+      "title": "Ikoku Nikki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1791/154233.jpg?s=8eda3b6030e78339db4970657258ddb8",
+      "url": "https://myanimelist.net/anime/58788/Ikoku_Nikki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
       "id": 63310,
       "title": "Ingoku Danchi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1373/155741.jpg?s=0b2dff6510c470ae37418c12899f79f9",
@@ -6972,16 +7012,6 @@
       "episodes_total": 1
     },
     {
-      "id": 36038,
-      "title": "Net-juu no Susume",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/87463.jpg?s=32089ba5124d9b717826ae1a55a42621",
-      "url": "https://myanimelist.net/anime/36038/Net-juu_no_Susume",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 10
-    },
-    {
       "id": 34383,
       "title": "Netsuzou TRap",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/10/86667.jpg?s=2f6a2d744c93054c3acd95ccd65cd944",
@@ -7838,7 +7868,7 @@
       "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 0
     },
     {
@@ -9302,6 +9332,16 @@
       "episodes_total": 24
     },
     {
+      "id": 18277,
+      "title": "Strike the Blood",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/56163.jpg?s=bf3805687f82b623f0a8c326661dd20a",
+      "url": "https://myanimelist.net/anime/18277/Strike_the_Blood",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 24
+    },
+    {
       "id": 49980,
       "title": "Sugar Apple Fairy Tale",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1897/131300.jpg?s=29649fcfb0748ad1f4fa52c9b0dd3790",
@@ -10108,7 +10148,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 26
     },
     {
@@ -11370,6 +11410,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 40295,
+      "title": "Another World",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1804/113788.jpg?s=141c28a1f53c0f992d213f7a8e33c2b8",
+      "url": "https://myanimelist.net/anime/40295/Another_World",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 3,
+      "episodes_total": 3
     },
     {
       "id": 36882,
@@ -12930,6 +12980,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 36038,
+      "title": "Net-juu no Susume",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/87463.jpg?s=32089ba5124d9b717826ae1a55a42621",
+      "url": "https://myanimelist.net/anime/36038/Net-juu_no_Susume",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 10,
+      "episodes_total": 10
     },
     {
       "id": 51105,
