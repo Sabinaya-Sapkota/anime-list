@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785489173,
+  "updated_at": 1785573081,
   "entries": [
     {
       "id": 63537,
@@ -3438,18 +3438,8 @@
       "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 0
-    },
-    {
-      "id": 38816,
-      "title": "Hello World",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1147/112650.jpg?s=eb5af7c55864a0c0dfced858246e5123",
-      "url": "https://myanimelist.net/anime/38816/Hello_World",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 1
     },
     {
       "id": 55877,
@@ -4718,7 +4708,7 @@
       "url": "https://myanimelist.net/anime/52308/Kanojo_ga_Koushaku-tei_ni_Itta_Riyuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -5368,7 +5358,7 @@
       "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -7262,16 +7252,6 @@
       "episodes_total": 13
     },
     {
-      "id": 52611,
-      "title": "Okashi na Tensei",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1251/136232.jpg?s=5213a6f295b567f50ee1462e844e4708",
-      "url": "https://myanimelist.net/anime/52611/Okashi_na_Tensei",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
       "id": 55842,
       "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1744/147363.jpg?s=99780a1f2bbd48dce447e003fa03eeae",
@@ -7338,7 +7318,7 @@
       "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
@@ -7566,16 +7546,6 @@
       "title": "Overtake!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1487/139955.jpg?s=957039867b0d042f83531e24849d0bea",
       "url": "https://myanimelist.net/anime/54301/Overtake",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 57944,
-      "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1432/141123.jpg?s=a491d36a675d0040676b804142972350",
-      "url": "https://myanimelist.net/anime/57944/Party_kara_Tsuihou_sareta_Sono_Chiyushi_Jitsu_wa_Saikyou_ni_Tsuki",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -8168,7 +8138,7 @@
       "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -12042,6 +12012,16 @@
       "episodes_total": 12
     },
     {
+      "id": 38816,
+      "title": "Hello World",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1147/112650.jpg?s=eb5af7c55864a0c0dfced858246e5123",
+      "url": "https://myanimelist.net/anime/38816/Hello_World",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 1
+    },
+    {
       "id": 60028,
       "title": "Himekishi wa Barbaroi no Yome",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1229/155022.jpg?s=98413b318c65cc37f951bbd68ca89f2b",
@@ -12218,7 +12198,7 @@
       "url": "https://myanimelist.net/anime/57380/Isekai_Yururi_Kikou__Kosodate_shinagara_Boukensha_shimasu",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -12438,7 +12418,7 @@
       "url": "https://myanimelist.net/anime/49109/Kami-tachi_ni_Hirowareta_Otoko_2nd_Season",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -12748,7 +12728,7 @@
       "url": "https://myanimelist.net/anime/59265/Magic_Maker__Isekai_Mahou_no_Tsukurikata",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -13008,7 +12988,7 @@
       "url": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -13046,6 +13026,16 @@
       "title": "Odayaka Kizoku no Kyuuka no Susume.",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1968/152396.jpg?s=141223b2c9ba33365bd5e94bfca5e626",
       "url": "https://myanimelist.net/anime/60071/Odayaka_Kizoku_no_Kyuuka_no_Susume",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 52611,
+      "title": "Okashi na Tensei",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1251/136232.jpg?s=5213a6f295b567f50ee1462e844e4708",
+      "url": "https://myanimelist.net/anime/52611/Okashi_na_Tensei",
       "status": "completed",
       "score": 0,
       "episodes_watched": 12,
@@ -13249,6 +13239,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 57944,
+      "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1432/141123.jpg?s=a491d36a675d0040676b804142972350",
+      "url": "https://myanimelist.net/anime/57944/Party_kara_Tsuihou_sareta_Sono_Chiyushi_Jitsu_wa_Saikyou_ni_Tsuki",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -14274,7 +14274,7 @@
     {
       "id": 50668,
       "title": "Mahoutsukai no Yoru",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1054/158927.jpg?s=d7951b87e5699ca55d56c8edd87ef484",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1403/159274.jpg?s=05d7d67da097e3f1a41ac66681f8c712",
       "url": "https://myanimelist.net/anime/50668/Mahoutsukai_no_Yoru",
       "status": "plan_to_watch",
       "score": 0,
