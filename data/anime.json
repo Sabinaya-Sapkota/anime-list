@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785573081,
+  "updated_at": 1785659627,
   "entries": [
     {
       "id": 63537,
@@ -8,7 +8,7 @@
       "url": "https://myanimelist.net/anime/63537/Kimi_wo_Aisuru_Ki_wa_Nai_to_Itta_Jiki_Koushaku-sama_ga_Nazeka_Dekiai_shitekimasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -968,7 +968,7 @@
       "url": "https://myanimelist.net/anime/61169/Black_Torch",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -1376,16 +1376,6 @@
       "title": "Cheer Danshi!!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1720/151223.jpg?s=2feb8a59a9c5277c248f0f5076d4b803",
       "url": "https://myanimelist.net/anime/32483/Cheer_Danshi",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 63964,
-      "title": "Cheongchun Blossom: Uliui Bom",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1318/156822.jpg?s=6474f60b486d4cc5cf0c2d7f7ffc5259",
-      "url": "https://myanimelist.net/anime/63964/Cheongchun_Blossom__Uliui_Bom",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -4052,16 +4042,6 @@
       "episodes_total": 12
     },
     {
-      "id": 37744,
-      "title": "Isekai Cheat Magician",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1282/102248.jpg?s=7ebeb1f67ed55ab4565c04b327c4c381",
-      "url": "https://myanimelist.net/anime/37744/Isekai_Cheat_Magician",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
       "id": 49297,
       "title": "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1945/116050.jpg?s=9d5006458c8d4c3e473bd59702d67edd",
@@ -4178,7 +4158,7 @@
       "url": "https://myanimelist.net/anime/63324/Iwamoto-senpai_no_Suisen",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -4700,16 +4680,6 @@
       "score": 0,
       "episodes_watched": 4,
       "episodes_total": 13
-    },
-    {
-      "id": 52308,
-      "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1109/130452.jpg?s=d000d23c42c234753906a17d52990f35",
-      "url": "https://myanimelist.net/anime/52308/Kanojo_ga_Koushaku-tei_ni_Itta_Riyuu",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 3,
-      "episodes_total": 12
     },
     {
       "id": 43969,
@@ -6702,16 +6672,6 @@
       "episodes_total": 12
     },
     {
-      "id": 40708,
-      "title": "Monster Musume no Oishasan",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1762/106598.jpg?s=75f00d660847e6442bc2f2bbec429e33",
-      "url": "https://myanimelist.net/anime/40708/Monster_Musume_no_Oishasan",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
       "id": 30757,
       "title": "Monster Strike",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/78835.jpg?s=8ca7b8469d3b37d175c9b4bcdcf20651",
@@ -7318,7 +7278,7 @@
       "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -9238,7 +9198,7 @@
       "url": "https://myanimelist.net/anime/32105/Sousei_no_Onmyouji",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 7,
       "episodes_total": 50
     },
     {
@@ -12102,6 +12062,16 @@
       "episodes_total": 13
     },
     {
+      "id": 37744,
+      "title": "Isekai Cheat Magician",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1282/102248.jpg?s=7ebeb1f67ed55ab4565c04b327c4c381",
+      "url": "https://myanimelist.net/anime/37744/Isekai_Cheat_Magician",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 52830,
       "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1316/134327.jpg?s=cb5263f47d913af19d1e78d0763440e8",
@@ -12436,6 +12406,16 @@
       "title": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1743/148272.jpg?s=25fc2b87384bb7a0eee233300af53c38",
       "url": "https://myanimelist.net/anime/60140/Kanchigai_no_Atelier_Meister__Eiyuu_Party_no_Moto_Zatsuyougakari_ga_Jitsu_wa_Sentou_Igai_ga_SSS_Rank_Datta_to_Iu_Yoku_Aru_Hanashi",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 52308,
+      "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1109/130452.jpg?s=d000d23c42c234753906a17d52990f35",
+      "url": "https://myanimelist.net/anime/52308/Kanojo_ga_Koushaku-tei_ni_Itta_Riyuu",
       "status": "completed",
       "score": 0,
       "episodes_watched": 12,
@@ -12869,6 +12849,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 40708,
+      "title": "Monster Musume no Oishasan",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1762/106598.jpg?s=75f00d660847e6442bc2f2bbec429e33",
+      "url": "https://myanimelist.net/anime/40708/Monster_Musume_no_Oishasan",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -14274,7 +14264,7 @@
     {
       "id": 50668,
       "title": "Mahoutsukai no Yoru",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1403/159274.jpg?s=05d7d67da097e3f1a41ac66681f8c712",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1054/158927.jpg?s=d7951b87e5699ca55d56c8edd87ef484",
       "url": "https://myanimelist.net/anime/50668/Mahoutsukai_no_Yoru",
       "status": "plan_to_watch",
       "score": 0,
