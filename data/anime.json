@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785659627,
+  "updated_at": 1785751267,
   "entries": [
     {
       "id": 63537,
@@ -1349,6 +1349,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 30091,
+      "title": "Chaos Dragon: Sekiryuu Seneki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/10/74375.jpg?s=0a96c6361312ab66e0daa0b91778af5e",
+      "url": "https://myanimelist.net/anime/30091/Chaos_Dragon__Sekiryuu_Seneki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -4942,16 +4952,6 @@
       "episodes_total": 25
     },
     {
-      "id": 34825,
-      "title": "Keppeki Danshi! Aoyama-kun",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/9/86644.jpg?s=e5f1ef332ef79e6239046c45899c5faa",
-      "url": "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
       "id": 49778,
       "title": "Kijin Gentoushou",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1722/148906.jpg?s=0a0ebbecbf7b7efc628a2222edd574a0",
@@ -5184,7 +5184,7 @@
     {
       "id": 59835,
       "title": "Kirio Fanclub",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1066/155831.jpg?s=8de294673024c13391b1394845f8de3a",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1341/154463.jpg?s=6370cebc27f27b49d0f82ac7f28bb196",
       "url": "https://myanimelist.net/anime/59835/Kirio_Fanclub",
       "status": "watching",
       "score": 0,
@@ -6808,7 +6808,7 @@
       "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 6,
       "episodes_total": 14
     },
     {
@@ -6948,7 +6948,7 @@
       "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 6,
       "episodes_total": 0
     },
     {
@@ -8148,7 +8148,7 @@
       "url": "https://myanimelist.net/anime/62876/Saijo_no_Osewa__Takane_no_Hanadarake_na_Meimonkou_de_Gakuin_Ichi_no_Ojousama_Seikatsu_Nouryoku_Kaimu_wo_Kagenagara_Osewa_suru_Koto_ni_Narimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -8458,7 +8458,7 @@
       "url": "https://myanimelist.net/anime/62435/Sekai_Saikyou_no_Kouei__Meikyuukoku_no_Shinjin_Tansakusha",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -9688,7 +9688,7 @@
       "url": "https://myanimelist.net/anime/56735/Tenkou-saki_no_Seiso_Karen_na_Bishoujo_ga_Mukashi_Danshi_to_Omotte_Issho_ni_Asonda_Osananajimi_Datta_Ken",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
@@ -9788,7 +9788,7 @@
       "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -12479,6 +12479,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 34825,
+      "title": "Keppeki Danshi! Aoyama-kun",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/9/86644.jpg?s=e5f1ef332ef79e6239046c45899c5faa",
+      "url": "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
