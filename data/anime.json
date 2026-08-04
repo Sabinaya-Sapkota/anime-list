@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785751267,
+  "updated_at": 1785833424,
   "entries": [
     {
       "id": 63537,
@@ -1078,7 +1078,7 @@
       "url": "https://myanimelist.net/anime/53494/Boukensha_ni_Naritai_to_Miyako_ni_Deteitta_Musume_ga_S-Rank_ni_Natteta",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 6,
       "episodes_total": 13
     },
     {
@@ -2558,7 +2558,7 @@
       "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -3518,7 +3518,7 @@
       "url": "https://myanimelist.net/anime/40938/Hige_wo_Soru_Soshite_Joshikousei_wo_Hirou",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 13
     },
     {
@@ -6598,7 +6598,7 @@
       "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -8168,7 +8168,7 @@
       "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -8268,7 +8268,7 @@
       "url": "https://myanimelist.net/anime/59349/Salaryman_ga_Isekai_ni_Ittara_Shitennou_ni_Natta_Hanashi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
@@ -8852,16 +8852,6 @@
       "episodes_total": 12
     },
     {
-      "id": 60303,
-      "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1163/151246.jpg?s=eff16e5947e7edc1605db2b8fef3064e",
-      "url": "https://myanimelist.net/anime/60303/Shinjiteita_Nakama-tachi_ni_Dungeon_Okuchi_de_Korosarekaketa_ga_Gift_Mugen_Gacha_de_Level_9999_no_Nakama-tachi_wo_Te_ni_Irete_Moto_Party_Member_to_Sekai_ni_Fukushuu___Zamaa_Shimasu",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
       "id": 57798,
       "title": "Shinkalion: Change the World",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1133/141311.jpg?s=ad87503c86d1ffa7a2abe1534dbc54e5",
@@ -9378,7 +9368,7 @@
       "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -9738,7 +9728,7 @@
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 16,
+      "episodes_watched": 24,
       "episodes_total": 24
     },
     {
@@ -13460,6 +13450,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 25
+    },
+    {
+      "id": 60303,
+      "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1163/151246.jpg?s=eff16e5947e7edc1605db2b8fef3064e",
+      "url": "https://myanimelist.net/anime/60303/Shinjiteita_Nakama-tachi_ni_Dungeon_Okuchi_de_Korosarekaketa_ga_Gift_Mugen_Gacha_de_Level_9999_no_Nakama-tachi_wo_Te_ni_Irete_Moto_Party_Member_to_Sekai_ni_Fukushuu___Zamaa_Shimasu",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 46985,
