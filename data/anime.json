@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785833424,
+  "updated_at": 1785919657,
   "entries": [
     {
       "id": 63537,
@@ -5184,7 +5184,7 @@
     {
       "id": 59835,
       "title": "Kirio Fanclub",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1341/154463.jpg?s=6370cebc27f27b49d0f82ac7f28bb196",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1066/155831.jpg?s=8de294673024c13391b1394845f8de3a",
       "url": "https://myanimelist.net/anime/59835/Kirio_Fanclub",
       "status": "watching",
       "score": 0,
@@ -5710,6 +5710,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 25
+    },
+    {
+      "id": 53849,
+      "title": "Kyouki Sanmyaku: Naked Peak",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1686/133916.jpg?s=c52c95e54f4a2df226f051c94b4c2f41",
+      "url": "https://myanimelist.net/anime/53849/Kyouki_Sanmyaku__Naked_Peak",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 54617,
@@ -6812,16 +6822,6 @@
       "episodes_total": 14
     },
     {
-      "id": 60619,
-      "title": "Nageki no Bourei wa Intai shitai Part 2",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1651/152063.jpg?s=c4dd037e5e95f7c7d5be3f97f418683e",
-      "url": "https://myanimelist.net/anime/60619/Nageki_no_Bourei_wa_Intai_shitai_Part_2",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 11
-    },
-    {
       "id": 50582,
       "title": "Nanatsu no Maken ga Shihai suru",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1396/136273.jpg?s=7030a11ebe274c166454ba1c140cc636",
@@ -7449,7 +7449,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 2,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 51705,
@@ -9678,7 +9678,7 @@
       "url": "https://myanimelist.net/anime/56735/Tenkou-saki_no_Seiso_Karen_na_Bishoujo_ga_Mukashi_Danshi_to_Omotte_Issho_ni_Asonda_Osananajimi_Datta_Ken",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -12930,6 +12930,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 60619,
+      "title": "Nageki no Bourei wa Intai shitai Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1651/152063.jpg?s=c4dd037e5e95f7c7d5be3f97f418683e",
+      "url": "https://myanimelist.net/anime/60619/Nageki_no_Bourei_wa_Intai_shitai_Part_2",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 11,
+      "episodes_total": 11
     },
     {
       "id": 37926,
