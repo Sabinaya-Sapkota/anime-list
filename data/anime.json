@@ -1,5 +1,5 @@
 {
-  "updated_at": 1785919657,
+  "updated_at": 1786006148,
   "entries": [
     {
       "id": 63537,
@@ -108,7 +108,7 @@
       "url": "https://myanimelist.net/anime/59730/A-Rank_Party_wo_Ridatsu_shita_Ore_wa_Moto_Oshiego-tachi_to_Meikyuu_Shinbu_wo_Mezasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 20,
       "episodes_total": 24
     },
     {
@@ -4808,7 +4808,7 @@
       "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -5888,7 +5888,7 @@
       "url": "https://myanimelist.net/anime/62322/Lv999_no_Murabito",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 6,
+      "episodes_watched": 7,
       "episodes_total": 12
     },
     {
@@ -7438,7 +7438,7 @@
       "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -7488,7 +7488,7 @@
       "url": "https://myanimelist.net/anime/19369/Outbreak_Company",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -10688,7 +10688,7 @@
       "url": "https://myanimelist.net/anime/55150/Yarinaoshi_Reijou_wa_Ryuutei_Heika_wo_Kouryakuchuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -11056,6 +11056,16 @@
       "title": "Zenshuu.",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1003/146841.jpg?s=02791495532726a696b243704eb1e8f6",
       "url": "https://myanimelist.net/anime/58502/Zenshuu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 34176,
+      "title": "Zero kara Hajimeru Mahou no Sho",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/85224.jpg?s=a2adc11a3ef9c8db03836df481a21086",
+      "url": "https://myanimelist.net/anime/34176/Zero_kara_Hajimeru_Mahou_no_Sho",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -13246,6 +13256,26 @@
       "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1432/141123.jpg?s=a491d36a675d0040676b804142972350",
       "url": "https://myanimelist.net/anime/57944/Party_kara_Tsuihou_sareta_Sono_Chiyushi_Jitsu_wa_Saikyou_ni_Tsuki",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 40436,
+      "title": "Peter Grill to Kenja no Jikan",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1368/108441.jpg?s=f3d839c4ebdc78e4779ee41711c740f4",
+      "url": "https://myanimelist.net/anime/40436/Peter_Grill_to_Kenja_no_Jikan",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 50348,
+      "title": "Peter Grill to Kenja no Jikan: Super Extra",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1702/128716.jpg?s=c45fccfe644f695e1db08b41a1d5b7d4",
+      "url": "https://myanimelist.net/anime/50348/Peter_Grill_to_Kenja_no_Jikan__Super_Extra",
       "status": "completed",
       "score": 0,
       "episodes_watched": 12,
