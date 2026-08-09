@@ -1,5 +1,5 @@
 {
-  "updated_at": 1786172694,
+  "updated_at": 1786259265,
   "entries": [
     {
       "id": 63537,
@@ -9,16 +9,6 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 5,
-      "episodes_total": 12
-    },
-    {
-      "id": 53762,
-      "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1678/148543.jpg?s=c9f71cdfd4448af39de7b82847ee0ee8",
-      "url": "https://myanimelist.net/anime/53762/Compass_20__Sentou_Setsuri_Kaiseki_System",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
       "episodes_total": 12
     },
     {
@@ -968,7 +958,7 @@
       "url": "https://myanimelist.net/anime/61169/Black_Torch",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 0
     },
     {
@@ -4168,7 +4158,7 @@
       "url": "https://myanimelist.net/anime/63324/Iwamoto-senpai_no_Suisen",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 0
     },
     {
@@ -6219,7 +6209,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 2,
-      "episodes_total": 0
+      "episodes_total": 26
     },
     {
       "id": 48417,
@@ -6948,7 +6938,7 @@
       "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 6,
+      "episodes_watched": 7,
       "episodes_total": 0
     },
     {
@@ -7278,7 +7268,7 @@
       "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 12
     },
     {
@@ -8148,7 +8138,7 @@
       "url": "https://myanimelist.net/anime/62876/Saijo_no_Osewa__Takane_no_Hanadarake_na_Meimonkou_de_Gakuin_Ichi_no_Ojousama_Seikatsu_Nouryoku_Kaimu_wo_Kagenagara_Osewa_suru_Koto_ni_Narimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 5,
+      "episodes_watched": 6,
       "episodes_total": 12
     },
     {
@@ -11240,6 +11230,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 11
+    },
+    {
+      "id": 53762,
+      "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1678/148543.jpg?s=c9f71cdfd4448af39de7b82847ee0ee8",
+      "url": "https://myanimelist.net/anime/53762/Compass_20__Sentou_Setsuri_Kaiseki_System",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 41380,
