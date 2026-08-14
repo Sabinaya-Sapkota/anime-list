@@ -1,5 +1,5 @@
 {
-  "updated_at": 1786607133,
+  "updated_at": 1786693379,
   "entries": [
     {
       "id": 63537,
@@ -1128,7 +1128,7 @@
       "url": "https://myanimelist.net/anime/62289/Buchigire_Reijou_wa_Houfuku_wo_Chikaimashita_Madousho_no_Chikara_de_Sokoku_wo_Tatakitsubushimasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 4,
+      "episodes_watched": 6,
       "episodes_total": 12
     },
     {
@@ -1376,16 +1376,6 @@
       "title": "Cheer Danshi!!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1720/151223.jpg?s=2feb8a59a9c5277c248f0f5076d4b803",
       "url": "https://myanimelist.net/anime/32483/Cheer_Danshi",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 57888,
-      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1811/151799.jpg?s=882b171723ee927bf37a73fce434a529",
-      "url": "https://myanimelist.net/anime/57888/Chichi_wa_Eiyuu_Haha_wa_Seirei_Musume_no_Watashi_wa_Tenseisha",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -1740,16 +1730,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 11
-    },
-    {
-      "id": 61196,
-      "title": "Dead Account",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1622/154192.jpg?s=897e5a5de3dd4659de625d2331e86cd3",
-      "url": "https://myanimelist.net/anime/61196/Dead_Account",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
     },
     {
       "id": 53613,
@@ -2128,7 +2108,7 @@
       "url": "https://myanimelist.net/anime/52701/Dungeon_Meshi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 16,
       "episodes_total": 24
     },
     {
@@ -3958,7 +3938,7 @@
       "url": "https://myanimelist.net/anime/62102/Ibitte_Konai_Gibo_to_Gishi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 6,
       "episodes_total": 0
     },
     {
@@ -7788,7 +7768,7 @@
       "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 0
     },
     {
@@ -10058,7 +10038,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 6,
+      "episodes_watched": 7,
       "episodes_total": 26
     },
     {
@@ -11592,6 +11572,16 @@
       "episodes_total": 12
     },
     {
+      "id": 57888,
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1811/151799.jpg?s=882b171723ee927bf37a73fce434a529",
+      "url": "https://myanimelist.net/anime/57888/Chichi_wa_Eiyuu_Haha_wa_Seirei_Musume_no_Watashi_wa_Tenseisha",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 49613,
       "title": "Chiyu Mahou no Machigatta Tsukaikata",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1733/140802.jpg?s=8716d9c78660a840727e3937d882316f",
@@ -11618,7 +11608,7 @@
       "url": "https://myanimelist.net/anime/57334/Dandadan",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -11630,6 +11620,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 61196,
+      "title": "Dead Account",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1622/154192.jpg?s=897e5a5de3dd4659de625d2331e86cd3",
+      "url": "https://myanimelist.net/anime/61196/Dead_Account",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 37150,
@@ -14296,6 +14296,16 @@
       "title": "Boku no Kokoro no Yabai Yatsu 3rd Season",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1146/156101.jpg?s=407201a6a0163fe75288d3faaf645b92",
       "url": "https://myanimelist.net/anime/63735/Boku_no_Kokoro_no_Yabai_Yatsu_3rd_Season",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 59068,
+      "title": "Dungeon Meshi Season 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1830/158890.jpg?s=5fdfc6efe84ff0b2a0d3e98dd51bb8d9",
+      "url": "https://myanimelist.net/anime/59068/Dungeon_Meshi_Season_2",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
