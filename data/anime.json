@@ -1,5 +1,5 @@
 {
-  "updated_at": 1787209054,
+  "updated_at": 1787295542,
   "entries": [
     {
       "id": 63537,
@@ -7758,7 +7758,7 @@
       "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 0
     },
     {
@@ -8769,6 +8769,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 21843,
+      "title": "Shingeki no Bahamut: Genesis",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/2/67513.jpg?s=508ce8d49b272fc5707d97961c128112",
+      "url": "https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -10028,7 +10038,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 26
     },
     {
