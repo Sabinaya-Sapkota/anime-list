@@ -1,5 +1,5 @@
 {
-  "updated_at": 1787381550,
+  "updated_at": 1787468010,
   "entries": [
     {
       "id": 63537,
@@ -626,6 +626,16 @@
       "title": "Aru Majo ga Shinu Made",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1620/148221.jpg?s=6f4ed66ccfa8fd564578788284e6fb9f",
       "url": "https://myanimelist.net/anime/59169/Aru_Majo_ga_Shinu_Made",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 37171,
+      "title": "Asobi Asobase",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1139/95077.jpg?s=4eeac01cc74d21f470313dab74ac39e0",
+      "url": "https://myanimelist.net/anime/37171/Asobi_Asobase",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -4232,6 +4242,26 @@
       "episodes_total": 13
     },
     {
+      "id": 46569,
+      "title": "Jigokuraku",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1075/131925.jpg?s=d7a306cad06c4f49cd1064d59616320f",
+      "url": "https://myanimelist.net/anime/46569/Jigokuraku",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 55825,
+      "title": "Jigokuraku 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1772/154456.jpg?s=9533247e34c8d5527e5367e4c78c97b8",
+      "url": "https://myanimelist.net/anime/55825/Jigokuraku_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 56230,
       "title": "Jiisan Baasan Wakagaeru",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1676/141714.jpg?s=3e63e93ff31c0ac7ddd26e8f35035ca5",
@@ -6582,6 +6612,16 @@
       "episodes_total": 1
     },
     {
+      "id": 7627,
+      "title": "Mitsudomoe",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/53947.jpg?s=d045ba93f3f8e68bc686b3046b8b0ca5",
+      "url": "https://myanimelist.net/anime/7627/Mitsudomoe",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
       "id": 32182,
       "title": "Mob Psycho 100",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/8/80356.jpg?s=4c98a3ed436e8096e05d8c01d1e63a10",
@@ -6918,7 +6958,7 @@
       "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -7248,7 +7288,7 @@
       "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 12
     },
     {
@@ -10292,6 +10332,16 @@
       "episodes_total": 25
     },
     {
+      "id": 41226,
+      "title": "Uzaki-chan wa Asobitai!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1540/108292.jpg?s=760b31846a80f45c2618d4c277bcbbcb",
+      "url": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 60593,
       "title": "Vigilante: Boku no Hero Academia Illegals",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1538/148604.jpg?s=8eadaa5550395752338d2c04c589d3fd",
@@ -11398,7 +11448,7 @@
       "url": "https://myanimelist.net/anime/20787/Black_Bullet",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 13,
       "episodes_total": 13
     },
     {
@@ -11758,7 +11808,7 @@
       "url": "https://myanimelist.net/anime/40526/Dragon_Ie_wo_Kau",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
