@@ -1,5 +1,5 @@
 {
-  "updated_at": 1787641195,
+  "updated_at": 1787727647,
   "entries": [
     {
       "id": 63537,
@@ -6758,7 +6758,7 @@
       "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -8178,7 +8178,7 @@
       "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 12
     },
     {
@@ -9388,7 +9388,7 @@
       "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 12
     },
     {
@@ -11009,6 +11009,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 18677,
+      "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/54389.jpg?s=1b9ef4675b622ee6884cea82fb740cc3",
+      "url": "https://myanimelist.net/anime/18677/Yuusha_ni_Narenakatta_Ore_wa_Shibushibu_Shuushoku_wo_Ketsui_Shimashita",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
