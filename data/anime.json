@@ -1,5 +1,5 @@
 {
-  "updated_at": 1788006987,
+  "updated_at": 1788090360,
   "entries": [
     {
       "id": 63537,
@@ -968,7 +968,7 @@
       "url": "https://myanimelist.net/anime/61169/Black_Torch",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 9,
       "episodes_total": 0
     },
     {
@@ -1570,6 +1570,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 16
+    },
+    {
+      "id": 1,
+      "title": "Cowboy Bebop",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/4/19644.jpg?s=aa40e14c009147bfdd64e4ac10692b3b",
+      "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 26
     },
     {
       "id": 25731,
@@ -3418,7 +3428,7 @@
       "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -4158,7 +4168,7 @@
       "url": "https://myanimelist.net/anime/63324/Iwamoto-senpai_no_Suisen",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 9,
       "episodes_total": 0
     },
     {
@@ -5338,7 +5348,7 @@
       "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -6958,7 +6968,7 @@
       "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 9,
+      "episodes_watched": 10,
       "episodes_total": 12
     },
     {
@@ -7288,7 +7298,7 @@
       "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -8108,7 +8118,7 @@
       "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -9748,7 +9758,7 @@
       "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 19,
+      "episodes_watched": 20,
       "episodes_total": 24
     },
     {
@@ -9798,7 +9808,7 @@
       "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 0
     },
     {
@@ -10088,7 +10098,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 26
     },
     {
