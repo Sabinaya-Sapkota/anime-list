@@ -1,5 +1,5 @@
 {
-  "updated_at": 1788090360,
+  "updated_at": 1788182888,
   "entries": [
     {
       "id": 63537,
@@ -7819,7 +7819,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 9,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 30296,
@@ -9538,7 +9538,7 @@
       "url": "https://myanimelist.net/anime/30911/Tales_of_Zestiria_the_Cross",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 7,
       "episodes_total": 12
     },
     {
@@ -13860,6 +13860,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 24459,
+      "title": "Tales of Zestiria: Doushi no Yoake",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/7/69719.jpg?s=7d51b3df0f6b72ebc1bfcbe82d998898",
+      "url": "https://myanimelist.net/anime/24459/Tales_of_Zestiria__Doushi_no_Yoake",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 1
     },
     {
       "id": 47159,
