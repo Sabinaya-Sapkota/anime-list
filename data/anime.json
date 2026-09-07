@@ -1,5 +1,5 @@
 {
-  "updated_at": 1788691538,
+  "updated_at": 1788783373,
   "entries": [
     {
       "id": 63537,
@@ -4500,6 +4500,26 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 63136,
+      "title": "Kaijuu 8-gou: Kanketsu-hen",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1792/154493.jpg?s=197b500e9ac5d7a523c089e5e7b28c7a",
+      "url": "https://myanimelist.net/anime/63136/Kaijuu_8-gou__Kanketsu-hen",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 63138,
+      "title": "Kaijuu 8-gou: Narumi no Heijitsu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1009/159343.jpg?s=3756bba1eff8148c2a120ef9c9ccf228",
+      "url": "https://myanimelist.net/anime/63138/Kaijuu_8-gou__Narumi_no_Heijitsu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 4
     },
     {
       "id": 52446,
@@ -9808,7 +9828,7 @@
       "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 9,
+      "episodes_watched": 10,
       "episodes_total": 0
     },
     {
