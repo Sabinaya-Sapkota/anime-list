@@ -1,5 +1,5 @@
 {
-  "updated_at": 1788783373,
+  "updated_at": 1788865537,
   "entries": [
     {
       "id": 63537,
@@ -4502,16 +4502,6 @@
       "episodes_total": 12
     },
     {
-      "id": 63136,
-      "title": "Kaijuu 8-gou: Kanketsu-hen",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1792/154493.jpg?s=197b500e9ac5d7a523c089e5e7b28c7a",
-      "url": "https://myanimelist.net/anime/63136/Kaijuu_8-gou__Kanketsu-hen",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 0
-    },
-    {
       "id": 63138,
       "title": "Kaijuu 8-gou: Narumi no Heijitsu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1009/159343.jpg?s=3756bba1eff8148c2a120ef9c9ccf228",
@@ -7792,16 +7782,6 @@
       "episodes_total": 12
     },
     {
-      "id": 37202,
-      "title": "Radiant",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1318/95345.jpg?s=7197d1c9ce58f7b7fd101cccb743248d",
-      "url": "https://myanimelist.net/anime/37202/Radiant",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 21
-    },
-    {
       "id": 51297,
       "title": "Ragna Crimson",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1763/140359.jpg?s=2bb25af6d5d8823022b4d342d29577c1",
@@ -8208,7 +8188,7 @@
       "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 9,
+      "episodes_watched": 10,
       "episodes_total": 12
     },
     {
@@ -9418,7 +9398,7 @@
       "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 9,
+      "episodes_watched": 10,
       "episodes_total": 12
     },
     {
@@ -13422,6 +13402,26 @@
       "episodes_total": 12
     },
     {
+      "id": 37202,
+      "title": "Radiant",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1318/95345.jpg?s=7197d1c9ce58f7b7fd101cccb743248d",
+      "url": "https://myanimelist.net/anime/37202/Radiant",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 21,
+      "episodes_total": 21
+    },
+    {
+      "id": 39355,
+      "title": "Radiant 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1974/108398.jpg?s=85ba8434b47f7ae6a23ab839104a2b87",
+      "url": "https://myanimelist.net/anime/39355/Radiant_2nd_Season",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 21,
+      "episodes_total": 21
+    },
+    {
       "id": 31240,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1522/128039.jpg?s=fa18667f7e01c40f0c08efed87bd8a4b",
@@ -14466,6 +14466,16 @@
       "title": "Fool Night",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1977/158669.jpg?s=ff5d989267dbf6dc87d750939f13cf86",
       "url": "https://myanimelist.net/anime/64459/Fool_Night",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 63136,
+      "title": "Kaijuu 8-gou: Kanketsu-hen",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1792/154493.jpg?s=197b500e9ac5d7a523c089e5e7b28c7a",
+      "url": "https://myanimelist.net/anime/63136/Kaijuu_8-gou__Kanketsu-hen",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
