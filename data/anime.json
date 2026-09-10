@@ -1,5 +1,5 @@
 {
-  "updated_at": 1788952228,
+  "updated_at": 1789038400,
   "entries": [
     {
       "id": 63537,
@@ -4169,7 +4169,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 9,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 14765,
@@ -5912,16 +5912,6 @@
       "episodes_total": 12
     },
     {
-      "id": 62322,
-      "title": "Lv999 no Murabito",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1366/158400.jpg?s=2a62d97c28468e9899831bc3fdabc2fa",
-      "url": "https://myanimelist.net/anime/62322/Lv999_no_Murabito",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 50709,
       "title": "Lycoris Recoil",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1261/127311.jpg?s=29409211f36d053258597cfbc067ea22",
@@ -7468,7 +7458,7 @@
       "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 9,
+      "episodes_watched": 10,
       "episodes_total": 12
     },
     {
@@ -12809,6 +12799,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 62322,
+      "title": "Lv999 no Murabito",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1366/158400.jpg?s=2a62d97c28468e9899831bc3fdabc2fa",
+      "url": "https://myanimelist.net/anime/62322/Lv999_no_Murabito",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
