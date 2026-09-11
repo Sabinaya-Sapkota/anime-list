@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789038400,
+  "updated_at": 1789124730,
   "entries": [
     {
       "id": 63537,
@@ -3089,7 +3089,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 13
     },
     {
       "id": 10793,
@@ -7802,16 +7802,6 @@
       "episodes_total": 12
     },
     {
-      "id": 63508,
-      "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1319/158376.jpg?s=20e2ef3a926983d8403e8a6b2eddb6b3",
-      "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 30296,
       "title": "Rakudai Kishi no Cavalry",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/9/76493.jpg?s=7135eec624e9652fa344076a292c3d03",
@@ -10088,7 +10078,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 10,
+      "episodes_watched": 11,
       "episodes_total": 26
     },
     {
@@ -10709,7 +10699,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 55150,
@@ -13420,6 +13410,16 @@
       "score": 0,
       "episodes_watched": 21,
       "episodes_total": 21
+    },
+    {
+      "id": 63508,
+      "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1319/158376.jpg?s=20e2ef3a926983d8403e8a6b2eddb6b3",
+      "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 31240,
