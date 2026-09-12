@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789124730,
+  "updated_at": 1789209277,
   "entries": [
     {
       "id": 63537,
@@ -5358,7 +5358,7 @@
       "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 10,
+      "episodes_watched": 11,
       "episodes_total": 12
     },
     {
@@ -7532,6 +7532,16 @@
       "episodes_total": 12
     },
     {
+      "id": 1943,
+      "title": "Paprika",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1929/93629.jpg?s=c73510be5062b9684a325131b40c7b95",
+      "url": "https://myanimelist.net/anime/1943/Paprika",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 161,
       "title": "Peace Maker Kurogane",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/10/77408.jpg?s=77259798c6b58a7cc0409b997c24c798",
@@ -8098,7 +8108,7 @@
       "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 10,
+      "episodes_watched": 11,
       "episodes_total": 12
     },
     {
@@ -14500,6 +14510,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 63381,
+      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1498/159767.jpg?s=d1d693e4f6d5ebd8316e8a64dd415210",
+      "url": "https://myanimelist.net/anime/63381/Mouse_Cursor_de_Genjitsu_wo_Sousa_Dekiru_You_ni_Natta_node_Onna_no_Ko_wo_Ippai_Click_Shimaasu",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 63129,
