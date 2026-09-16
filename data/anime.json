@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789472063,
+  "updated_at": 1789557655,
   "entries": [
     {
       "id": 63537,
@@ -6762,16 +6762,6 @@
       "episodes_total": 12
     },
     {
-      "id": 62080,
-      "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1612/158373.jpg?s=b6fa2f913f1befe1e085f4dfa56f4ee0",
-      "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 10,
-      "episodes_total": 12
-    },
-    {
       "id": 52080,
       "title": "Murai no Koi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1260/144801.jpg?s=4f051740756039e09cca852cdc0c2b69",
@@ -10714,7 +10704,7 @@
     {
       "id": 59644,
       "title": "Yasei no Last Boss ga Arawareta!",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1599/155164.jpg?s=42e71b41dc4aef6551d684884d82954c",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1810/160089.jpg?s=622b83ff452ac3242176248cdd1f8171",
       "url": "https://myanimelist.net/anime/59644/Yasei_no_Last_Boss_ga_Arawareta",
       "status": "watching",
       "score": 0,
@@ -12956,6 +12946,16 @@
       "title": "Monster Musume no Oishasan",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1762/106598.jpg?s=75f00d660847e6442bc2f2bbec429e33",
       "url": "https://myanimelist.net/anime/40708/Monster_Musume_no_Oishasan",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 62080,
+      "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1612/158373.jpg?s=b6fa2f913f1befe1e085f4dfa56f4ee0",
+      "url": "https://myanimelist.net/anime/62080/Mujikaku_Seijo_wa_Kyou_mo_Muishiki_ni_Chikara_wo_Tare_Nagasu",
       "status": "completed",
       "score": 0,
       "episodes_watched": 12,
