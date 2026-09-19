@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789729342,
+  "updated_at": 1789814749,
   "entries": [
     {
       "id": 63537,
@@ -2149,7 +2149,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
-      "episodes_total": 0
+      "episodes_total": 1
     },
     {
       "id": 6746,
@@ -5352,16 +5352,6 @@
       "episodes_total": 12
     },
     {
-      "id": 62617,
-      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1371/154308.jpg?s=d126f55b338c3ee75a1b1109ad63ad8a",
-      "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 48926,
       "title": "Komi-san wa, Comyushou desu.",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1899/117237.jpg?s=1ae3e5a7671ca90a21a816e207796484",
@@ -8080,16 +8070,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 23
-    },
-    {
-      "id": 62078,
-      "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1891/158566.jpg?s=7bea119164c9bf828dac77473e219efc",
-      "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
     },
     {
       "id": 54760,
@@ -12662,6 +12642,16 @@
       "episodes_total": 1
     },
     {
+      "id": 62617,
+      "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1371/154308.jpg?s=d126f55b338c3ee75a1b1109ad63ad8a",
+      "url": "https://myanimelist.net/anime/62617/Koko_wa_Ore_ni_Makasete_Saki_ni_Ike_to_Itte_kara_10-nen_ga_Tattara_Densetsu_ni_Natteita",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 30831,
       "title": "Kono Subarashii Sekai ni Shukufuku wo!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1895/142748.jpg?s=3c36db103bf2d62af03c9812170f2d37",
@@ -13449,6 +13439,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 62078,
+      "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1891/158566.jpg?s=7bea119164c9bf828dac77473e219efc",
+      "url": "https://myanimelist.net/anime/62078/Ryoumin_0-nin_Start_no_Henkyou_Ryoushu-sama",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
@@ -14434,7 +14434,7 @@
     {
       "id": 61967,
       "title": "Black Clover 2nd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1602/158830.jpg?s=8324563a115cf4dc752328bc6945223a",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1857/160133.jpg?s=77bb36327760fdf8aab37577b17a58a3",
       "url": "https://myanimelist.net/anime/61967/Black_Clover_2nd_Season",
       "status": "plan_to_watch",
       "score": 0,
