@@ -21,7 +21,7 @@
     font-family:'Segoe UI', Roboto, Arial, sans-serif;
     padding:50px 20px 80px;
   }
-  .page-header{ text-align:center; margin-bottom:36px; }
+  .page-header{ text-align:center; margin-bottom:24px; }
   .page-header h1{
     font-size:2.4rem;
     font-weight:800;
@@ -40,27 +40,115 @@
   }
   .page-header a{ color:var(--main-color); text-decoration:none; }
   .page-header a:hover{ text-decoration:underline; }
+  .page-header .updated{
+    color:#666; font-size:.8rem; margin-top:6px;
+  }
 
+  /* Stats strip */
+  .stats{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:14px;
+    max-width:1000px;
+    margin:0 auto 30px;
+  }
+  .stat-pill{
+    background:var(--card-bg);
+    border:1px solid var(--border);
+    border-radius:20px;
+    padding:8px 18px;
+    font-size:.85rem;
+    color:var(--text-dim);
+    display:flex;
+    align-items:center;
+    gap:8px;
+  }
+  .stat-pill b{ color:#fff; font-size:1rem; }
+  .stat-pill.accent{ border-color:rgba(246,11,11,.4); }
+  .stat-pill.accent b{ color:var(--main-color); }
+
+  /* Controls: tabs + search + sort */
+  .controls{
+    max-width:1200px;
+    margin:0 auto 34px;
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+  }
   .tabs{
     display:flex;
     justify-content:center;
-    gap:28px;
+    gap:10px;
     flex-wrap:wrap;
-    margin-bottom:40px;
     border-bottom:1px solid var(--border);
-    padding-bottom:14px;
+    padding-bottom:16px;
   }
   .tab-btn{
-    background:none; border:none; color:var(--text-dim);
-    font-size:.95rem; cursor:pointer; padding:6px 2px;
-    position:relative;
+    background:none; border:1px solid transparent; color:var(--text-dim);
+    font-size:.88rem; cursor:pointer; padding:7px 14px;
+    border-radius:20px;
+    transition:all .15s ease;
+    display:flex; align-items:center; gap:6px;
   }
-  .tab-btn.active{ color:#fff; font-weight:700; }
-  .tab-btn.active::after{
-    content:''; position:absolute; left:0; right:0; bottom:-15px;
-    height:3px; background:var(--main-color); border-radius:2px;
+  .tab-btn .count{
+    background:rgba(255,255,255,.08);
+    padding:1px 7px;
+    border-radius:10px;
+    font-size:.75rem;
   }
+  .tab-btn.active{ color:#fff; font-weight:700; background:rgba(246,11,11,.15); border-color:rgba(246,11,11,.5); }
+  .tab-btn.active .count{ background:var(--main-color); color:#fff; }
   .tab-btn:hover{ color:#fff; }
+
+  .toolbar{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:14px;
+    flex-wrap:wrap;
+  }
+  .search-box{
+    position:relative;
+    width:100%;
+    max-width:340px;
+  }
+  .search-box i{
+    position:absolute; left:14px; top:50%; transform:translateY(-50%);
+    color:var(--text-dim); font-size:.9rem;
+  }
+  .search-box input{
+    width:100%;
+    background:var(--card-bg);
+    border:1px solid var(--border);
+    color:#fff;
+    padding:10px 14px 10px 36px;
+    border-radius:8px;
+    font-size:.9rem;
+    outline:none;
+    transition:border-color .15s ease;
+  }
+  .search-box input:focus{ border-color:var(--main-color); }
+  .search-box input::placeholder{ color:#777; }
+
+  .sort-select{
+    background:var(--card-bg);
+    border:1px solid var(--border);
+    color:#fff;
+    padding:10px 14px;
+    border-radius:8px;
+    font-size:.9rem;
+    outline:none;
+    cursor:pointer;
+  }
+  .sort-select:focus{ border-color:var(--main-color); }
+
+  .result-count{
+    text-align:center;
+    color:#666;
+    font-size:.82rem;
+    margin-top:-6px;
+  }
 
   .status-msg{
     text-align:center; color:var(--text-dim);
@@ -90,6 +178,7 @@
     transform:translateY(-4px);
     box-shadow:0 8px 22px rgba(246,11,11,.25);
   }
+  .card .poster-wrap{ position:relative; }
   .card img{
     width:100%;
     height:230px;
@@ -97,6 +186,21 @@
     display:block;
     background:#1a1a1a;
   }
+  .score-chip{
+    position:absolute;
+    top:10px; right:10px;
+    background:rgba(0,0,0,.75);
+    border:1px solid rgba(255,255,255,.15);
+    color:#ffd23f;
+    font-size:.78rem;
+    font-weight:700;
+    padding:3px 9px;
+    border-radius:20px;
+    display:flex;
+    align-items:center;
+    gap:4px;
+  }
+  .score-chip i{ font-size:.72rem; }
   .card-body{ padding:16px 18px 18px; display:flex; flex-direction:column; flex:1; }
   .card-title{
     font-size:1.05rem;
@@ -125,6 +229,24 @@
     color:var(--main-color);
     border:1px solid rgba(246,11,11,.4);
   }
+  .badge-status.completed{ background:rgba(70,200,120,.12); color:#5fd88a; border-color:rgba(70,200,120,.4); }
+  .badge-status.on_hold{ background:rgba(240,180,40,.12); color:#f0c040; border-color:rgba(240,180,40,.4); }
+  .badge-status.dropped{ background:rgba(150,150,150,.12); color:#999; border-color:rgba(150,150,150,.35); }
+  .badge-status.plan_to_watch{ background:rgba(100,150,240,.12); color:#7ea6f0; border-color:rgba(100,150,240,.4); }
+
+  .progress-track{
+    height:5px;
+    background:#222;
+    border-radius:3px;
+    overflow:hidden;
+    margin:8px 0 10px;
+  }
+  .progress-fill{
+    height:100%;
+    background:var(--main-color);
+    border-radius:3px;
+  }
+
   .card-footer{ margin-top:auto; padding-top:12px; }
   .check-btn{
     display:block;
@@ -146,6 +268,11 @@
     color:#555; font-size:.8rem;
   }
   footer a{ color:var(--main-color); text-decoration:none; }
+
+  @media (max-width:480px){
+    body{ padding:30px 14px 60px; }
+    .page-header h1{ font-size:1.8rem; }
+  }
 </style>
 </head>
 <body>
@@ -156,15 +283,35 @@
   <div class="subtitle">
     Live from <a href="https://myanimelist.net/profile/Sabinaya_Sapkota" target="_blank" rel="noopener">myanimelist.net/profile/Sabinaya_Sapkota</a>
   </div>
+  <div class="updated" id="updatedAt"></div>
 </div>
 
-<div class="tabs" id="tabs">
-  <button class="tab-btn active" data-status="all">All Anime</button>
-  <button class="tab-btn" data-status="watching">Currently Watching</button>
-  <button class="tab-btn" data-status="completed">Completed</button>
-  <button class="tab-btn" data-status="on_hold">On Hold</button>
-  <button class="tab-btn" data-status="dropped">Dropped</button>
-  <button class="tab-btn" data-status="plan_to_watch">Plan to Watch</button>
+<div class="stats" id="stats"></div>
+
+<div class="controls">
+  <div class="tabs" id="tabs">
+    <button class="tab-btn active" data-status="all">All <span class="count" id="count-all">0</span></button>
+    <button class="tab-btn" data-status="watching">Watching <span class="count" id="count-watching">0</span></button>
+    <button class="tab-btn" data-status="completed">Completed <span class="count" id="count-completed">0</span></button>
+    <button class="tab-btn" data-status="on_hold">On Hold <span class="count" id="count-on_hold">0</span></button>
+    <button class="tab-btn" data-status="dropped">Dropped <span class="count" id="count-dropped">0</span></button>
+    <button class="tab-btn" data-status="plan_to_watch">Plan to Watch <span class="count" id="count-plan_to_watch">0</span></button>
+  </div>
+
+  <div class="toolbar">
+    <div class="search-box">
+      <i class="bi bi-search"></i>
+      <input type="text" id="searchInput" placeholder="Search titles…">
+    </div>
+    <select class="sort-select" id="sortSelect">
+      <option value="title">Sort: Title (A–Z)</option>
+      <option value="score">Sort: Score (high–low)</option>
+      <option value="progress">Sort: Progress (most watched)</option>
+      <option value="remaining">Sort: Fewest episodes left</option>
+    </select>
+  </div>
+
+  <div class="result-count" id="resultCount"></div>
 </div>
 
 <div id="content">
@@ -195,8 +342,15 @@ const statusLabels = {
 const grid = document.getElementById("grid");
 const statusMsg = document.getElementById("statusMsg");
 const tabs = document.getElementById("tabs");
+const searchInput = document.getElementById("searchInput");
+const sortSelect = document.getElementById("sortSelect");
+const resultCount = document.getElementById("resultCount");
+const statsEl = document.getElementById("stats");
+const updatedAtEl = document.getElementById("updatedAt");
 
 let currentTab = "all";
+let currentQuery = "";
+let currentSort = "title";
 let allEntries = null; // cached after first successful load
 
 tabs.addEventListener("click", (e) => {
@@ -208,10 +362,21 @@ tabs.addEventListener("click", (e) => {
   render();
 });
 
+searchInput.addEventListener("input", (e) => {
+  currentQuery = e.target.value.trim().toLowerCase();
+  render();
+});
+
+sortSelect.addEventListener("change", (e) => {
+  currentSort = e.target.value;
+  render();
+});
+
 function showMessage(html) {
   statusMsg.innerHTML = html;
   statusMsg.style.display = "block";
   grid.innerHTML = "";
+  resultCount.textContent = "";
 }
 
 function placeholderImg() {
@@ -220,22 +385,33 @@ function placeholderImg() {
   );
 }
 
+function escapeHtml(str) {
+  return (str || "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
 function cardHTML(entry) {
   const statusLabel = statusLabels[entry.status] || (entry.status || "").replace(/_/g, " ") || "??";
-  const watched = entry.episodes_watched ?? "?";
-  const total = entry.episodes_total || "?";
-  const scoreLabel = (entry.score && entry.score > 0) ? entry.score : "??";
+  const watched = entry.episodes_watched ?? 0;
+  const total = entry.episodes_total || 0;
+  const pct = total > 0 ? Math.min(100, Math.round((watched / total) * 100)) : 0;
+  const scoreVal = entry.score && entry.score > 0 ? entry.score : null;
   const img = entry.image || placeholderImg();
   const url = entry.url || `https://myanimelist.net/profile/${USERNAME}`;
+  const title = escapeHtml(entry.title || "Untitled");
 
   return `
     <div class="card">
-      <img src="${img}" alt="${entry.title}" loading="lazy" onerror="this.src='${placeholderImg()}'">
+      <div class="poster-wrap">
+        <img src="${img}" alt="${title}" loading="lazy" onerror="this.src='${placeholderImg()}'">
+        ${scoreVal ? `<div class="score-chip"><i class="bi bi-star-fill"></i>${scoreVal}</div>` : ""}
+      </div>
       <div class="card-body">
-        <span class="badge-status">${statusLabel}</span>
-        <h3 class="card-title">${entry.title || "Untitled"}</h3>
-        <div class="card-meta"><b>Episodes seen:</b> ${watched}/${total}</div>
-        <div class="card-meta"><b>Score:</b> ${scoreLabel}</div>
+        <span class="badge-status ${entry.status || ''}">${statusLabel}</span>
+        <h3 class="card-title">${title}</h3>
+        <div class="card-meta"><b>Episodes:</b> ${watched}/${total || "?"}</div>
+        ${total > 0 ? `<div class="progress-track"><div class="progress-fill" style="width:${pct}%"></div></div>` : `<div class="progress-track"></div>`}
         <div class="card-footer">
           <a class="check-btn" href="${url}" target="_blank" rel="noopener">Check it out</a>
         </div>
@@ -244,16 +420,80 @@ function cardHTML(entry) {
   `;
 }
 
+function updateCounts() {
+  const counts = { all: allEntries.length, watching: 0, completed: 0, on_hold: 0, dropped: 0, plan_to_watch: 0 };
+  allEntries.forEach(e => { if (counts[e.status] !== undefined) counts[e.status]++; });
+  Object.keys(counts).forEach(k => {
+    const el = document.getElementById(`count-${k}`);
+    if (el) el.textContent = counts[k];
+  });
+}
+
+function renderStats() {
+  const total = allEntries.length;
+  const completed = allEntries.filter(e => e.status === "completed").length;
+  const totalEpisodes = allEntries.reduce((sum, e) => sum + (e.episodes_watched || 0), 0);
+  const scored = allEntries.filter(e => e.score && e.score > 0);
+  const avgScore = scored.length ? (scored.reduce((s, e) => s + e.score, 0) / scored.length).toFixed(1) : "—";
+
+  statsEl.innerHTML = `
+    <div class="stat-pill accent"><b>${total}</b> titles</div>
+    <div class="stat-pill"><b>${completed}</b> completed</div>
+    <div class="stat-pill"><b>${totalEpisodes.toLocaleString()}</b> episodes watched</div>
+    <div class="stat-pill"><b>${avgScore}</b> avg score</div>
+  `;
+}
+
+function renderUpdatedAt(unixSeconds) {
+  if (!unixSeconds) { updatedAtEl.textContent = ""; return; }
+  const d = new Date(unixSeconds * 1000);
+  updatedAtEl.textContent = "Last synced " + d.toLocaleString(undefined, {
+    dateStyle: "medium", timeStyle: "short"
+  });
+}
+
+function sortEntries(items) {
+  const arr = [...items];
+  switch (currentSort) {
+    case "score":
+      arr.sort((a, b) => (b.score || 0) - (a.score || 0) || (a.title || "").localeCompare(b.title || ""));
+      break;
+    case "progress":
+      arr.sort((a, b) => (b.episodes_watched || 0) - (a.episodes_watched || 0));
+      break;
+    case "remaining":
+      arr.sort((a, b) => {
+        const remA = (a.episodes_total || 0) - (a.episodes_watched || 0);
+        const remB = (b.episodes_total || 0) - (b.episodes_watched || 0);
+        // entries with unknown totals go last
+        if (!a.episodes_total) return 1;
+        if (!b.episodes_total) return -1;
+        return remA - remB;
+      });
+      break;
+    case "title":
+    default:
+      arr.sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+  }
+  return arr;
+}
+
 function render() {
   if (!allEntries) return;
-  const items = currentTab === "all" ? allEntries : allEntries.filter(e => e.status === currentTab);
+
+  let items = currentTab === "all" ? allEntries : allEntries.filter(e => e.status === currentTab);
+  if (currentQuery) {
+    items = items.filter(e => (e.title || "").toLowerCase().includes(currentQuery));
+  }
+  items = sortEntries(items);
 
   if (!items.length) {
-    showMessage(`<i class="bi bi-emoji-neutral"></i> Nothing in this list yet.`);
+    showMessage(`<i class="bi bi-emoji-neutral"></i> Nothing matches here.`);
     return;
   }
   statusMsg.style.display = "none";
   grid.innerHTML = items.map(cardHTML).join("");
+  resultCount.textContent = `Showing ${items.length} of ${allEntries.length}`;
 }
 
 async function loadList() {
@@ -265,6 +505,9 @@ async function loadList() {
     const json = await res.json();
 
     allEntries = json.entries || [];
+    updateCounts();
+    renderStats();
+    renderUpdatedAt(json.updated_at);
     render();
   } catch (err) {
     console.error(err);
