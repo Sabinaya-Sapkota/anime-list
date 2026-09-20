@@ -73,7 +73,7 @@ def normalize(entry):
 
     return {
         "id": entry.get("anime_id"),
-        "title": entry.get("anime_title"),
+        "title": str(entry.get("anime_title", "")),
         "image": image_path,
         "url": anime_url,
         "status": STATUS_MAP.get(status_id, "unknown"),

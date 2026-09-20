@@ -399,7 +399,7 @@ function cardHTML(entry) {
   const scoreVal = entry.score && entry.score > 0 ? entry.score : null;
   const img = entry.image || placeholderImg();
   const url = entry.url || `https://myanimelist.net/profile/${USERNAME}`;
-  const title = escapeHtml(entry.title || "Untitled");
+  const title = escapeHtml(String(entry.title ?? "Untitled"));
 
   return `
     <div class="card">
@@ -456,7 +456,7 @@ function sortEntries(items) {
   const arr = [...items];
   switch (currentSort) {
     case "score":
-      arr.sort((a, b) => (b.score || 0) - (a.score || 0) || (a.title || "").localeCompare(b.title || ""));
+      arr.sort((a, b) => (b.score || 0) - (a.score || 0) || String(a.title || "").localeCompare(String(b.title || "")));
       break;
     case "progress":
       arr.sort((a, b) => (b.episodes_watched || 0) - (a.episodes_watched || 0));
@@ -473,7 +473,7 @@ function sortEntries(items) {
       break;
     case "title":
     default:
-      arr.sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+      arr.sort((a, b) => String(a.title || "").localeCompare(String(b.title || "")));
   }
   return arr;
 }
@@ -483,7 +483,7 @@ function render() {
 
   let items = currentTab === "all" ? allEntries : allEntries.filter(e => e.status === currentTab);
   if (currentQuery) {
-    items = items.filter(e => (e.title || "").toLowerCase().includes(currentQuery));
+    items = items.filter(e => String(e.title || "").toLowerCase().includes(currentQuery));
   }
   items = sortEntries(items);
 
