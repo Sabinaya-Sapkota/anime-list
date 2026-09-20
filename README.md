@@ -4,7 +4,7 @@ A live, auto-updating anime tracker card gallery — pulled straight from [MyAni
 
 **Live site:** [sabinaya-sapkota.github.io/anime-list](https://sabinaya-sapkota.github.io/anime-list/)
 
-![status](https://img.shields.io/badge/status-active-brightgreen) ![auto--sync](https://img.shields.io/badge/data-auto--synced%20daily-f60b0b)
+![status](https://img.shields.io/badge/status-active-brightgreen) ![auto--sync](https://img.shields.io/badge/data-auto--synced%20hourly-f60b0b)
 
 ---
 
@@ -12,19 +12,19 @@ A live, auto-updating anime tracker card gallery — pulled straight from [MyAni
 
 A single-page site that displays an anime list as a card gallery — poster, title, watch status, episode progress, and score — with tabs to filter by **All / Watching / Completed / On Hold / Dropped / Plan to Watch**. Each card links straight to the anime's MyAnimeList page.
 
-Instead of calling a third-party API from the browser every time someone visits (which is slow, rate-limited, and breaks whenever MyAnimeList changes something), this project fetches the list **once a day** in the background and commits it as a small JSON file. The site just reads that file — fast, reliable, no external dependency at page-load.
+Instead of calling a third-party API from the browser every time someone visits (which is slow, rate-limited, and breaks whenever MyAnimeList changes something), this project fetches the list **once an hour** in the background and commits it as a small JSON file. The site just reads that file — fast, reliable, no external dependency at page-load.
 
 ## How it works
 
 ```
-┌───────────────────────┐   daily cron    ┌──────────────────────┐   static fetch    ┌────────────┐
+┌───────────────────────┐   hourly cron   ┌──────────────────────┐   static fetch    ┌────────────┐
 │  MyAnimeList profile   │ ─────────────▶  │  GitHub Action        │ ────────────────▶ │ index.html │
 │  (source of truth)     │ fetch_anime.py  │  → data/anime.json    │                   │ (the site) │
 └───────────────────────┘                  └──────────────────────┘                   └────────────┘
 ```
 
 - **`scripts/fetch_anime.py`** — runs on GitHub's servers, pulls the anime list, normalizes it, writes `data/anime.json`
-- **`.github/workflows/update-anime.yml`** — triggers the script daily (and on-demand via the Actions tab)
+- **`.github/workflows/update-anime.yml`** — triggers the script hourly (and on-demand via the Actions tab)
 - **`index.html`** — reads `data/anime.json` and renders the cards; no build step, no framework
 
 ## Tech stack
@@ -64,7 +64,7 @@ After that, it keeps itself in sync automatically once a day — no maintenance 
 
 ## Notes
 
-- Data updates once every 24 hours, not in real time — recent status changes on MyAnimeList may take up to a day to appear here.
+- Data updates once an hour, not in real time — recent status changes on MyAnimeList may take up to an hour to appear here.
 - If a sync run ever fails (MyAnimeList rate-limits are the usual culprit), the site just keeps showing the last successful snapshot rather than going blank.
 
 ---
