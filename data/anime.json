@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789871856,
+  "updated_at": 1789883433,
   "entries": [
     {
       "id": 63537,
@@ -6742,6 +6742,16 @@
       "episodes_total": 18
     },
     {
+      "id": 63381,
+      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1498/159767.jpg?s=d1d693e4f6d5ebd8316e8a64dd415210",
+      "url": "https://myanimelist.net/anime/63381/Mouse_Cursor_de_Genjitsu_wo_Sousa_Dekiru_You_ni_Natta_node_Onna_no_Ko_wo_Ippai_Click_Shimaasu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 37487,
       "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1180/93407.jpg?s=849251a10789b60eedd58d58d29947d4",
@@ -11283,7 +11293,7 @@
     },
     {
       "id": 41457,
-      "title": 86,
+      "title": "86",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1987/117507.jpg?s=e1010a97842dc7016aab99b2bafcf240",
       "url": "https://myanimelist.net/anime/41457/86",
       "status": "completed",
@@ -14512,16 +14522,6 @@
       "episodes_total": 1
     },
     {
-      "id": 63381,
-      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1498/159767.jpg?s=d1d693e4f6d5ebd8316e8a64dd415210",
-      "url": "https://myanimelist.net/anime/63381/Mouse_Cursor_de_Genjitsu_wo_Sousa_Dekiru_You_ni_Natta_node_Onna_no_Ko_wo_Ippai_Click_Shimaasu",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 1,
-      "episodes_total": 0
-    },
-    {
       "id": 63129,
       "title": "Tensei shitara Slime Datta Ken 4th Season Part 2",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1803/154473.jpg?s=aff5bec26b6a451f7a1b9829b42a8f98",
@@ -14538,7 +14538,7 @@
       "url": "https://myanimelist.net/anime/55566/Wasted_Chef",
       "status": "plan_to_watch",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 0,
       "episodes_total": 1
     },
     {
