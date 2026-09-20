@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789892317,
+  "updated_at": 1789910856,
   "entries": [
     {
       "id": 63537,
@@ -1270,6 +1270,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 11
+    },
+    {
+      "id": 61649,
+      "title": "Caishen Dou Zhanlong",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1454/156919.jpg?s=0598f266200b817f6b2dcd391c34015f",
+      "url": "https://myanimelist.net/anime/61649/Caishen_Dou_Zhanlong",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 6,
+      "episodes_total": 16
     },
     {
       "id": 36828,
@@ -9752,16 +9762,6 @@
       "episodes_total": 12
     },
     {
-      "id": 63100,
-      "title": "Tetsunabe no Jan!",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1452/159112.jpg?s=a2255caed1f1aa8c16d59e61c2e23eae",
-      "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 55911,
       "title": "The Fable",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1254/141155.jpg?s=fa232e4489863ab87fcb0a86e34be5b5",
@@ -14080,6 +14080,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 63100,
+      "title": "Tetsunabe no Jan!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1452/159112.jpg?s=a2255caed1f1aa8c16d59e61c2e23eae",
+      "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 48441,
