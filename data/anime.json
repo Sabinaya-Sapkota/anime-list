@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789814749,
+  "updated_at": 1789871856,
   "entries": [
     {
       "id": 63537,
@@ -7262,16 +7262,6 @@
       "episodes_total": 12
     },
     {
-      "id": 61814,
-      "title": "Oni no Hanayome",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1082/158708.jpg?s=89c63886bb39295ae091c5e36fb243db",
-      "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 14199,
       "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/42111.jpg?s=da7f589f182ab8e7b6a1073559be99a7",
@@ -13156,6 +13146,16 @@
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1264/153908.jpg?s=2aef77222d75a7ee744613fd2b36e4cf",
       "url": "https://myanimelist.net/anime/61549/Okiraku_Ryoushu_no_Tanoshii_Ryouchi_Bouei__Seisankei_Majutsu_de_Na_mo_Naki_Mura_wo_Saikyou_no_Jousai_Toshi_ni",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
+      "id": 61814,
+      "title": "Oni no Hanayome",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1082/158708.jpg?s=89c63886bb39295ae091c5e36fb243db",
+      "url": "https://myanimelist.net/anime/61814/Oni_no_Hanayome",
       "status": "completed",
       "score": 0,
       "episodes_watched": 12,
