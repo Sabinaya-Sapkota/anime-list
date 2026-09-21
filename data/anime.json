@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789970920,
+  "updated_at": 1789997878,
   "entries": [
     {
       "id": 63537,
@@ -10170,6 +10170,36 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 36871,
+      "title": "Ultraman",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1774/116478.jpg?s=d4ec93b3de39ac8fa9f6a0f8b4643b26",
+      "url": "https://myanimelist.net/anime/36871/Ultraman",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 51653,
+      "title": "Ultraman Final",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1671/134694.jpg?s=52190ea2ddd25b157fd01d8025ff2da2",
+      "url": "https://myanimelist.net/anime/51653/Ultraman_Final",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 39935,
+      "title": "Ultraman Season 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1491/120066.jpg?s=967338b8dcf6eba567390ac291672de3",
+      "url": "https://myanimelist.net/anime/39935/Ultraman_Season_2",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 6
     },
     {
       "id": 36510,
