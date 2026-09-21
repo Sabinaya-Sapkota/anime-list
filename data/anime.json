@@ -1,5 +1,5 @@
 {
-  "updated_at": 1789997878,
+  "updated_at": 1790017440,
   "entries": [
     {
       "id": 63537,
@@ -8142,16 +8142,6 @@
       "episodes_total": 120
     },
     {
-      "id": 56736,
-      "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1529/158522.jpg?s=18e1ac2011feaef9450349dd58184089",
-      "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 62825,
       "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1632/155095.jpg?s=a8187c41b0eb04d97b10fc4e5b06e348",
@@ -13529,6 +13519,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 56736,
+      "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1529/158522.jpg?s=18e1ac2011feaef9450349dd58184089",
+      "url": "https://myanimelist.net/anime/56736/Saikyou_Degarashi_Ouji_no_Anyaku_Teii_Arasoi",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
