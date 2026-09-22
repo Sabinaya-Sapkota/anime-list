@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790047465,
+  "updated_at": 1790067682,
   "entries": [
     {
       "id": 63537,
@@ -9342,16 +9342,6 @@
       "episodes_total": 12
     },
     {
-      "id": 63752,
-      "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1417/157798.jpg?s=f79ec0eb90ee70f6b14b8b2f4f0e32c1",
-      "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 12
-    },
-    {
       "id": 849,
       "title": "Suzumiya Haruhi no Yuuutsu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1470/137929.jpg?s=4d21d91fe36bfb9040c7408063f07f19",
@@ -13900,6 +13890,16 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 1
+    },
+    {
+      "id": 63752,
+      "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1417/157798.jpg?s=f79ec0eb90ee70f6b14b8b2f4f0e32c1",
+      "url": "https://myanimelist.net/anime/63752/Suterare_Seijo_no_Isekai_Gohan_Tabi__Kakure_Skill_de_Camping_Car_wo_Shoukan_shimashita",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
     },
     {
       "id": 50594,
