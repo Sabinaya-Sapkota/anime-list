@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790138125,
+  "updated_at": 1790156724,
   "entries": [
     {
       "id": 63537,
@@ -11838,7 +11838,7 @@
       "url": "https://myanimelist.net/anime/51287/Emo_Faze",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 24,
       "episodes_total": 24
     },
     {
@@ -14516,6 +14516,16 @@
       "title": "Dungeon Meshi Season 2",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1830/158890.jpg?s=5fdfc6efe84ff0b2a0d3e98dd51bb8d9",
       "url": "https://myanimelist.net/anime/59068/Dungeon_Meshi_Season_2",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
+      "id": 62278,
+      "title": "Emo Faze 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1001/151548.jpg?s=c23982ae5b58e88eee85492480800269",
+      "url": "https://myanimelist.net/anime/62278/Emo_Faze_2nd_Season",
       "status": "plan_to_watch",
       "score": 0,
       "episodes_watched": 0,
