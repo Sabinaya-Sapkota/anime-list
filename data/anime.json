@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790334737,
+  "updated_at": 1790354126,
   "entries": [
     {
       "id": 63537,
@@ -630,6 +630,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 2402,
+      "title": "Ashita no Joe",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/64671.jpg?s=8190c1378cffdb79c499663a1a68f7f3",
+      "url": "https://myanimelist.net/anime/2402/Ashita_no_Joe",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 79
     },
     {
       "id": 37171,
@@ -10028,7 +10038,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 12,
+      "episodes_watched": 13,
       "episodes_total": 26
     },
     {
@@ -10114,7 +10124,7 @@
     {
       "id": 63061,
       "title": "Uchi no Otouto-domo ga Sumimasen",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1902/156345.jpg?s=c14ddb8399a3ccf1cca1c05f9ab43607",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1474/160261.jpg?s=2d0b338ae1a9e337a104b1a729b9f2c2",
       "url": "https://myanimelist.net/anime/63061/Uchi_no_Otouto-domo_ga_Sumimasen",
       "status": "watching",
       "score": 0,
