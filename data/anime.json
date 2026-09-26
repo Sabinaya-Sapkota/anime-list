@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790393867,
+  "updated_at": 1790413668,
   "entries": [
     {
       "id": 63537,
@@ -3440,16 +3440,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
-    },
-    {
-      "id": 63817,
-      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1534/156314.jpg?s=feaa77983b4aa83be14291a74f8b0ff0",
-      "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 13
     },
     {
       "id": 55877,
@@ -9702,16 +9692,6 @@
       "episodes_total": 12
     },
     {
-      "id": 59970,
-      "title": "Tensei shitara Slime Datta Ken 4th Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1695/156389.jpg?s=43fd46a7bb8e8fcfc3b0604f9bbd2c3e",
-      "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 22,
-      "episodes_total": 24
-    },
-    {
       "id": 59971,
       "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1447/153665.jpg?s=279dc0e4652a94c0660872e9987594b5",
@@ -12032,6 +12012,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63817,
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1534/156314.jpg?s=feaa77983b4aa83be14291a74f8b0ff0",
+      "url": "https://myanimelist.net/anime/63817/Hell_Mode__Yarikomizuki_no_Gamer_wa_Hai_Settei_no_Isekai_de_Musou_suru_2nd_Season",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
+      "episodes_total": 13
+    },
+    {
       "id": 38816,
       "title": "Hello World",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1147/112650.jpg?s=eb5af7c55864a0c0dfced858246e5123",
@@ -14066,6 +14056,16 @@
       "title": "Tensei shitara Slime Datta Ken 3rd Season",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1211/143476.jpg?s=a33c8c3a602bd8fdd18ee3bfd72e4ff4",
       "url": "https://myanimelist.net/anime/53580/Tensei_shitara_Slime_Datta_Ken_3rd_Season",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 24,
+      "episodes_total": 24
+    },
+    {
+      "id": 59970,
+      "title": "Tensei shitara Slime Datta Ken 4th Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1695/156389.jpg?s=43fd46a7bb8e8fcfc3b0604f9bbd2c3e",
+      "url": "https://myanimelist.net/anime/59970/Tensei_shitara_Slime_Datta_Ken_4th_Season",
       "status": "completed",
       "score": 0,
       "episodes_watched": 24,
