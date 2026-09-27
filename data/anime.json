@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790513154,
+  "updated_at": 1790542494,
   "entries": [
     {
       "id": 63537,
@@ -9632,6 +9632,16 @@
       "episodes_total": 6
     },
     {
+      "id": 64340,
+      "title": "Tempal: Item no Chikara",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1386/160022.jpg?s=dc837f98c3974bccf187da44bd3d4e60",
+      "url": "https://myanimelist.net/anime/64340/Tempal__Item_no_Chikara",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 54275,
       "title": "Temple",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1879/136896.jpg?s=209d3d2b3d950b28fca3176f5eb06dff",
@@ -9700,6 +9710,16 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 12
+    },
+    {
+      "id": 60601,
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
+      "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 49891,
@@ -14008,7 +14028,7 @@
       "url": "https://myanimelist.net/anime/59131/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_2nd_Season",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
