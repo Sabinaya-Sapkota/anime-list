@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790489670,
+  "updated_at": 1790513154,
   "entries": [
     {
       "id": 63537,
@@ -1346,6 +1346,16 @@
       "title": "C³",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/32285.jpg?s=9d099da5894d31d9154ff403cf09910d",
       "url": "https://myanimelist.net/anime/10578/C³",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 34525,
+      "title": "Centaur no Nayami",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/2/86767.jpg?s=3677fbde495dbc3632966757cf6faf2c",
+      "url": "https://myanimelist.net/anime/34525/Centaur_no_Nayami",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -3616,6 +3626,16 @@
       "title": "Himesama \"Goumon\" no Jikan desu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1056/139398.jpg?s=163e8a48ddc0389bc8a33d472b4ed64b",
       "url": "https://myanimelist.net/anime/55774/Himesama_Goumon_no_Jikan_desu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 28825,
+      "title": "Himouto! Umaru-chan",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/75086.jpg?s=0f946e6e1e4d695f47a834ff611b62fe",
+      "url": "https://myanimelist.net/anime/28825/Himouto_Umaru-chan",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -10682,14 +10702,14 @@
       "episodes_total": 12
     },
     {
-      "id": 59644,
-      "title": "Yasei no Last Boss ga Arawareta!",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1810/160089.jpg?s=622b83ff452ac3242176248cdd1f8171",
-      "url": "https://myanimelist.net/anime/59644/Yasei_no_Last_Boss_ga_Arawareta",
+      "id": 63140,
+      "title": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1689/160128.jpg?s=f7cd3ef6556e90e575e5bfb508d41c65",
+      "url": "https://myanimelist.net/anime/63140/Yasei_no_Last_Boss_ga_Arawareta_2nd_Season",
       "status": "watching",
       "score": 0,
       "episodes_watched": 1,
-      "episodes_total": 12
+      "episodes_total": 0
     },
     {
       "id": 57192,
@@ -14372,6 +14392,16 @@
       "episodes_total": 13
     },
     {
+      "id": 59644,
+      "title": "Yasei no Last Boss ga Arawareta!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1810/160089.jpg?s=622b83ff452ac3242176248cdd1f8171",
+      "url": "https://myanimelist.net/anime/59644/Yasei_no_Last_Boss_ga_Arawareta",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
+      "episodes_total": 12
+    },
+    {
       "id": 32615,
       "title": "Youjo Senki",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/82890.jpg?s=b64f06c15c2eaa9d8717494e4b30138d",
@@ -14610,6 +14640,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62613,
+      "title": "Youchien Wars",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1242/156360.jpg?s=67aec06376b8e1f8d92761b21dc8f1a3",
+      "url": "https://myanimelist.net/anime/62613/Youchien_Wars",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
     }
   ]
 }
