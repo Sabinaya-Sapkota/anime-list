@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790567177,
+  "updated_at": 1790591736,
   "entries": [
     {
       "id": 63537,
@@ -9712,16 +9712,6 @@
       "episodes_total": 12
     },
     {
-      "id": 60601,
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
-      "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 1,
-      "episodes_total": 0
-    },
-    {
       "id": 49891,
       "title": "Tensei shitara Ken deshita",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1191/127909.jpg?s=a66e2e5077f67e9dfb9d7671ecacf05e",
@@ -14544,7 +14534,7 @@
     {
       "id": 61967,
       "title": "Black Clover 2nd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1857/160133.jpg?s=77bb36327760fdf8aab37577b17a58a3",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1954/160282.jpg?s=1f3c34bf803c5d6f07e40211c0e357fd",
       "url": "https://myanimelist.net/anime/61967/Black_Clover_2nd_Season",
       "status": "plan_to_watch",
       "score": 0,
@@ -14630,6 +14620,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 60601,
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
+      "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
+      "status": "plan_to_watch",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 63129,
