@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790837426,
+  "updated_at": 1790863871,
   "entries": [
     {
       "id": 63537,
@@ -2570,6 +2570,16 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 11
+    },
+    {
+      "id": 63337,
+      "title": "FX Senshi Kurumi-chan",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1928/160253.jpg?s=03b19ac914b6eaa9a703a8103ca30cba",
+      "url": "https://myanimelist.net/anime/63337/FX_Senshi_Kurumi-chan",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 60522,
@@ -7466,6 +7476,16 @@
       "title": "Otome Kaijuu Caraméliser",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1981/156340.jpg?s=37ba6e0797750c9c17883fc79d40c615",
       "url": "https://myanimelist.net/anime/63150/Otome_Kaijuu_Caraméliser",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 12
+    },
+    {
+      "id": 38395,
+      "title": "Otona no Bouguya-san",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1590/111713.jpg?s=589c3560f5a300102ccde2eec55a398e",
+      "url": "https://myanimelist.net/anime/38395/Otona_no_Bouguya-san",
       "status": "watching",
       "score": 0,
       "episodes_watched": 2,
