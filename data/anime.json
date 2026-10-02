@@ -1,5 +1,5 @@
 {
-  "updated_at": 1790901079,
+  "updated_at": 1790923318,
   "entries": [
     {
       "id": 63537,
@@ -5462,6 +5462,16 @@
       "episodes_total": 12
     },
     {
+      "id": 64534,
+      "title": "Koori no Jouheki 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1963/159754.jpg?s=9bfc2f34d376875336e507f4a747381e",
+      "url": "https://myanimelist.net/anime/64534/Koori_no_Jouheki_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 52173,
       "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1927/132758.jpg?s=a050b1e8176ce006478301d6961ed2f5",
@@ -10068,7 +10078,7 @@
       "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 13,
+      "episodes_watched": 14,
       "episodes_total": 26
     },
     {
