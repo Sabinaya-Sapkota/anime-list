@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791032546,
+  "updated_at": 1791049578,
   "entries": [
     {
       "id": 63537,
@@ -1792,6 +1792,16 @@
       "episodes_total": 11
     },
     {
+      "id": 62218,
+      "title": "Daxia Shou Mu Ren",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1790/160205.jpg?s=c3eb08bd6128dd44906ca1ed59929389",
+      "url": "https://myanimelist.net/anime/62218/Daxia_Shou_Mu_Ren",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 4,
+      "episodes_total": 59
+    },
+    {
       "id": 53613,
       "title": "Dead Mount Death Play",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1930/133758.jpg?s=07e678a7d8ec889fe81996758bdf3118",
@@ -2810,6 +2820,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 61140,
+      "title": "Gensou Suikoden",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1579/160352.jpg?s=9bfe3b309acbbb931f7f89fe64c09983",
+      "url": "https://myanimelist.net/anime/61140/Gensou_Suikoden",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 34213,
@@ -6352,6 +6372,16 @@
       "episodes_total": 13
     },
     {
+      "id": 64326,
+      "title": "Marronnier Oukoku no Shichinin no Kishi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1678/160198.jpg?s=12f1a8e140783940d9c6554444db2ae0",
+      "url": "https://myanimelist.net/anime/64326/Marronnier_Oukoku_no_Shichinin_no_Kishi",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 20
+    },
+    {
       "id": 41265,
       "title": "Mars Red",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1212/113448.jpg?s=8c054e46f17c2a00e862bac94af7b905",
@@ -8102,6 +8132,16 @@
       "episodes_total": 12
     },
     {
+      "id": 59787,
+      "title": "Romelia Senki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1208/160008.jpg?s=5d8437db737c2e8b8308ebbd07acc788",
+      "url": "https://myanimelist.net/anime/59787/Romelia_Senki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 52461,
       "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1890/131473.jpg?s=ed08b1c10dc02394d55be4a5fd081bc9",
@@ -9750,6 +9790,16 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 12
+    },
+    {
+      "id": 61153,
+      "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1454/156338.jpg?s=f7749d1d48f8912d5b3681400c1f73f4",
+      "url": "https://myanimelist.net/anime/61153/Tensei_shita_Daiseijo_wa_Seijo_de_Aru_Koto_wo_Hitakakusu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 0
     },
     {
       "id": 49891,
