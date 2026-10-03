@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791012976,
+  "updated_at": 1791032546,
   "entries": [
     {
       "id": 63537,
@@ -10,6 +10,16 @@
       "score": 0,
       "episodes_watched": 5,
       "episodes_total": 12
+    },
+    {
+      "id": 62524,
+      "title": "#Zombie Sagashitemasu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1151/160025.jpg?s=f050edeea3d433503985b4d115e168ca",
+      "url": "https://myanimelist.net/anime/62524/Zombie_Sagashitemasu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
     },
     {
       "id": 54041,
@@ -10834,7 +10844,7 @@
     {
       "id": 61830,
       "title": "Yoroi Shin Den Samurai Troopers",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1289/153952.jpg?s=9bcda4be322a89cfcf7da06f3cc7f2a3",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1467/159946.jpg?s=0c458347c618f0e047980ffaf06c40dd",
       "url": "https://myanimelist.net/anime/61830/Yoroi_Shin_Den_Samurai_Troopers",
       "status": "watching",
       "score": 0,
