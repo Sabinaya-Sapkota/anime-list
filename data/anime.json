@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791128373,
+  "updated_at": 1791141113,
   "entries": [
     {
       "id": 63537,
@@ -468,7 +468,7 @@
       "url": "https://myanimelist.net/anime/49052/Ao_Ashi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 16,
+      "episodes_watched": 17,
       "episodes_total": 24
     },
     {
@@ -6622,6 +6622,16 @@
       "episodes_total": 13
     },
     {
+      "id": 60948,
+      "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1889/160053.jpg?s=ee843e133616f84b9ea79152fe263881",
+      "url": "https://myanimelist.net/anime/60948/Mezametara_Saikyou_Soubi_to_Uchuusenmochi_Datta_node_Ikkodate_Mezashite_Youhei_toshite_Jiyuu_ni_Ikitai",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 42178,
       "title": "Mi Bao Zhi Guo",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1449/108024.jpg?s=fc4888f6af36a0e9476c316c9fbbac8a",
@@ -11060,6 +11070,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 62753,
+      "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1732/159886.jpg?s=9be177bc916b8f180ea6cd13b56bbc66",
+      "url": "https://myanimelist.net/anime/62753/Yowaki_Max_Reijou_nanoni_Ratsuwan_Konyakusha-sama_no_Kake_ni_Notte_Shimatta",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
     },
     {
       "id": 60444,
