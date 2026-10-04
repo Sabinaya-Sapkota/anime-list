@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791070262,
+  "updated_at": 1791087850,
   "entries": [
     {
       "id": 63537,
@@ -18,7 +18,7 @@
       "url": "https://myanimelist.net/anime/62524/Zombie_Sagashitemasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -4902,6 +4902,16 @@
       "episodes_total": 36
     },
     {
+      "id": 62922,
+      "title": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1498/159735.jpg?s=a92fdae72d343e7e9cde9df58933345a",
+      "url": "https://myanimelist.net/anime/62922/Kashita_Maryoku_wa_Revo_Barai_de_Kyousei_Choushuu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 61897,
       "title": "Katainaka no Ossan, Kensei ni Naru II",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1100/157173.jpg?s=5a8bf8cdfb21d9a356181dfc6214ec27",
@@ -6069,6 +6079,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 56733,
+      "title": "Magical★Explorer",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1666/160106.jpg?s=0a1cd677a46aed0d55e19eb739a520a5",
+      "url": "https://myanimelist.net/anime/56733/Magical★Explorer",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
       "episodes_total": 13
     },
     {
@@ -7902,6 +7922,16 @@
       "episodes_total": 12
     },
     {
+      "id": 210,
+      "title": "Ranma ½",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/6441.jpg?s=b9b0be74d582fe693d870f51dbe62182",
+      "url": "https://myanimelist.net/anime/210/Ranma_½",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 161
+    },
+    {
       "id": 34561,
       "title": "Re:Creators",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/85469.jpg?s=182993969c5e5b089e2e3338d6724f95",
@@ -8520,6 +8550,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 61578,
+      "title": "Seitokai ni mo Ana wa Aru!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1877/160134.jpg?s=bc3296adf5c2bab2afc61ac5c88628ed",
+      "url": "https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
     },
     {
       "id": 62435,
@@ -9320,6 +9360,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 565,
+      "title": "Steamboy",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/21278.jpg?s=07e1c1b30b8281ad929d16aef0d727d4",
+      "url": "https://myanimelist.net/anime/565/Steamboy",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 9253,
@@ -10420,6 +10470,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 63764,
+      "title": "Vertex Force",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1026/160012.jpg?s=a47b2ea1c6e155a215434a6233feffed",
+      "url": "https://myanimelist.net/anime/63764/Vertex_Force",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 60593,
