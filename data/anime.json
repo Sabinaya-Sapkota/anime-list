@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791087850,
+  "updated_at": 1791111243,
   "entries": [
     {
       "id": 63537,
@@ -470,6 +470,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 61603,
+      "title": "Ao Ashi Season 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1295/158726.jpg?s=b0e3710a8033c2ec7b3f6c8a4076fa91",
+      "url": "https://myanimelist.net/anime/61603/Ao_Ashi_Season_2",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
     },
     {
       "id": 21995,
@@ -11388,7 +11398,7 @@
       "url": "https://myanimelist.net/anime/41915/Zuihou_de_Zhaohuan_Shi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -11398,7 +11408,7 @@
       "url": "https://myanimelist.net/anime/59421/Zutaboro_Reijou_wa_Ane_no_Moto_Konyakusha_ni_Dekiai_sareru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
