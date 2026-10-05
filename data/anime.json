@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791164219,
+  "updated_at": 1791188546,
   "entries": [
     {
       "id": 63537,
@@ -468,7 +468,7 @@
       "url": "https://myanimelist.net/anime/49052/Ao_Ashi",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 17,
+      "episodes_watched": 18,
       "episodes_total": 24
     },
     {
@@ -1780,6 +1780,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 25
+    },
+    {
+      "id": 63509,
+      "title": "Dark Summoner to Dekiteiru",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1357/159860.jpg?s=6313758192d314bb476da4c9bf04dbe7",
+      "url": "https://myanimelist.net/anime/63509/Dark_Summoner_to_Dekiteiru",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 2025,
@@ -4782,6 +4792,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63753,
+      "title": "Kanata kara",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1238/159816.jpg?s=bb3fd0c89dc88e2844247b968cca5be9",
+      "url": "https://myanimelist.net/anime/63753/Kanata_kara",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
+    },
+    {
       "id": 39198,
       "title": "Kanata no Astra",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1784/106428.jpg?s=82af43780baaebf74a983dc080736dcc",
@@ -4809,6 +4829,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 64131,
+      "title": "Kanojo no Tomodachi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1413/159862.jpg?s=8a5d4d78e7a53ee9bab9f863f81f1d5c",
+      "url": "https://myanimelist.net/anime/64131/Kanojo_no_Tomodachi",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
       "episodes_total": 12
     },
     {
@@ -6878,7 +6908,7 @@
       "url": "https://myanimelist.net/anime/63381/Mouse_Cursor_de_Genjitsu_wo_Sousa_Dekiru_You_ni_Natta_node_Onna_no_Ko_wo_Ippai_Click_Shimaasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 0,
       "episodes_total": 0
     },
     {
@@ -7330,6 +7360,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 8
+    },
+    {
+      "id": 62907,
+      "title": "Ojisan wa Kawaii Mono ga Osuki.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1322/159256.jpg?s=b3b68ef88c4f1cc1c4e47e01823e09c6",
+      "url": "https://myanimelist.net/anime/62907/Ojisan_wa_Kawaii_Mono_ga_Osuki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 53300,
@@ -9682,6 +9722,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63751,
+      "title": "Tank Chair",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1800/159472.jpg?s=3d6796e63c3de72a462079f73e021872",
+      "url": "https://myanimelist.net/anime/63751/Tank_Chair",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 46471,
       "title": "Tantei wa Mou, Shindeiru.",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1843/115815.jpg?s=1d58ea206a73f9dd7849f68aa1c75793",
@@ -9788,7 +9838,7 @@
       "url": "https://myanimelist.net/anime/64340/Tempal__Item_no_Chikara",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -9860,6 +9910,16 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 12
+    },
+    {
+      "id": 60601,
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
+      "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 0
     },
     {
       "id": 61153,
@@ -14800,16 +14860,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
-    },
-    {
-      "id": 60601,
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
-      "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
-      "status": "plan_to_watch",
-      "score": 0,
-      "episodes_watched": 1,
-      "episodes_total": 0
     },
     {
       "id": 63129,
