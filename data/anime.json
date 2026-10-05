@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791188546,
+  "updated_at": 1791222888,
   "entries": [
     {
       "id": 63537,
@@ -2110,6 +2110,16 @@
       "score": 0,
       "episodes_watched": 5,
       "episodes_total": 182
+    },
+    {
+      "id": 63409,
+      "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1165/160033.jpg?s=a9b770463e6144e1cd7e7796df6e8290",
+      "url": "https://myanimelist.net/anime/63409/Doumo_Suki_na_Hito_ni_Horegusuri_wo_Irai_sareta_Majo_desu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
     },
     {
       "id": 9330,
@@ -6908,7 +6918,7 @@
       "url": "https://myanimelist.net/anime/63381/Mouse_Cursor_de_Genjitsu_wo_Sousa_Dekiru_You_ni_Natta_node_Onna_no_Ko_wo_Ippai_Click_Shimaasu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 0
     },
     {
@@ -7326,6 +7336,16 @@
       "title": "Noragami",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1886/128266.jpg?s=48d95ddb919aec4f4cc068bd6596a689",
       "url": "https://myanimelist.net/anime/20507/Noragami",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 18095,
+      "title": "Nourin",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/57563.jpg?s=3527b2a8be6d252d6f73d3e622ecbd49",
+      "url": "https://myanimelist.net/anime/18095/Nourin",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -7870,6 +7890,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 22
+    },
+    {
+      "id": 63098,
+      "title": "Psyren",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1000/160405.jpg?s=a49f9fe66d1b867655c44a3c13dd3f5d",
+      "url": "https://myanimelist.net/anime/63098/Psyren",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 28617,
@@ -9332,6 +9362,16 @@
       "episodes_total": 13
     },
     {
+      "id": 35839,
+      "title": "Sora yori mo Tooi Basho",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/89879.jpg?s=9221f61cf942b51d55b5ca9687d96756",
+      "url": "https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
       "id": 8098,
       "title": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/5/31163.jpg?s=0c6060b418dacd2c8fabdae5be8629fe",
@@ -9912,6 +9952,16 @@
       "episodes_total": 12
     },
     {
+      "id": 63712,
+      "title": "Tensei Goblin dakedo Shitsumon Aru?",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1760/159941.jpg?s=340f0b35ab1db718852411a221953142",
+      "url": "https://myanimelist.net/anime/63712/Tensei_Goblin_dakedo_Shitsumon_Aru",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 0
+    },
+    {
       "id": 60601,
       "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1533/159859.jpg?s=d57fd3f2b4e1ddad83c5181a8ce6b078",
@@ -10104,7 +10154,7 @@
     {
       "id": 1860,
       "title": "Tokyo Majin Gakuen Kenpuuchou: Tou",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1894/113730.jpg?s=5683e18148eef56d6c9758881e3ce5ab",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1897/160220.jpg?s=882050cbc981ee1ed082596f4a006f2b",
       "url": "https://myanimelist.net/anime/1860/Tokyo_Majin_Gakuen_Kenpuuchou__Tou",
       "status": "watching",
       "score": 0,
