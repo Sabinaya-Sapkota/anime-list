@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791338773,
+  "updated_at": 1791366627,
   "entries": [
     {
       "id": 63537,
@@ -1460,6 +1460,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62696,
+      "title": "Choujun! Choujou-senpai",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1874/160335.jpg?s=ae8a90605fb79e0dbf27bb4649ae02f3",
+      "url": "https://myanimelist.net/anime/62696/Choujun_Choujou-senpai",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 38390,
@@ -6122,6 +6132,16 @@
       "episodes_total": 25
     },
     {
+      "id": 435,
+      "title": "Magic Knight Rayearth",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1683/97042.jpg?s=825b7a9a216a1fee5d59a64ed7020e31",
+      "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 20
+    },
+    {
       "id": 33299,
       "title": "Magic-Kyun! Renaissance",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/7/80828.jpg?s=7de8d74c175044374e92ddc9569b40d8",
@@ -10320,6 +10340,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 63431,
+      "title": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1963/160339.jpg?s=4d56b64844241ea078015842aac25431",
+      "url": "https://myanimelist.net/anime/63431/Tsuihou_sareta_Cheat_Fuyo_Majutsushi_wa_Kimama_na_Second_Life_wo_Ouka_suru_Ore_wa_Buki_dake_ja_Naku_Arayuru_Mono_ni_Kyouka_Point_wo_Fuyo_Dekiru_shi_Ore_no_Ishi_de_Itsudemo_Kouka_wo_Kaijo_Dekiru_kedo_Nokotta_Hitotachi_Daijoubu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 59741,
