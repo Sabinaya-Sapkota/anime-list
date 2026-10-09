@@ -2,7 +2,7 @@
 
 A live, auto-updating anime tracker card gallery — pulled straight from [MyAnimeList](https://myanimelist.net/profile/Sabinaya_Sapkota) and rendered as a clean, filterable card grid.
 
-**Live site:** [sabinaya-sapkota.github.io/anime-list](https://sabinaya-sapkota.github.io/anime-list/)
+**Live site:** [sabinaya-sapkota.github.io/anime-list](https://anime-list.sabinayasapkota.info.np)
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![auto--sync](https://img.shields.io/badge/data-auto--synced%20hourly-f60b0b)
 
