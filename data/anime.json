@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791624356,
+  "updated_at": 1791646993,
   "entries": [
     {
       "id": 63537,
@@ -608,7 +608,7 @@
       "url": "https://myanimelist.net/anime/59561/Around_40_Otoko_no_Isekai_Tsuuhan",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 1,
       "episodes_total": 13
     },
     {
@@ -8278,7 +8278,7 @@
       "url": "https://myanimelist.net/anime/59787/Romelia_Senki",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -9242,6 +9242,16 @@
       "episodes_total": 12
     },
     {
+      "id": 61999,
+      "title": "Shuiro no Kamen",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1299/159977.jpg?s=43b701e992384b401107677314229c6f",
+      "url": "https://myanimelist.net/anime/61999/Shuiro_no_Kamen",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
+    },
+    {
       "id": 33502,
       "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/4/85260.jpg?s=730a42ad6d970601fee8329d87df03fe",
@@ -10008,7 +10018,7 @@
       "url": "https://myanimelist.net/anime/61153/Tensei_shita_Daiseijo_wa_Seijo_de_Aru_Koto_wo_Hitakakusu",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 0
     },
     {
@@ -14798,7 +14808,7 @@
       "url": "https://myanimelist.net/anime/59424/Yuusha_Party_wo_Tsuihou_sareta_Shiromadoushi_S-Rank_Boukensha_ni_Hirowareru__Kono_Shiromadoushi_ga_Kikakugai_Sugiru",
       "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
