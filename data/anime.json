@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791597927,
+  "updated_at": 1791624356,
   "entries": [
     {
       "id": 63537,
@@ -10110,6 +10110,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 3
+    },
+    {
+      "id": 61014,
+      "title": "Toaru Anbu no Item",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1531/159988.jpg?s=ce63f482ea73168706573c7955dfcbb4",
+      "url": "https://myanimelist.net/anime/61014/Toaru_Anbu_no_Item",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 0
     },
     {
       "id": 9000,
