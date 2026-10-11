@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791691648,
+  "updated_at": 1791717177,
   "entries": [
     {
       "id": 63537,
@@ -5842,6 +5842,16 @@
       "episodes_total": 20
     },
     {
+      "id": 63053,
+      "title": "Kyoufu Collector",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1751/160122.jpg?s=7fe21d54c31857b11449e356566f4365",
+      "url": "https://myanimelist.net/anime/63053/Kyoufu_Collector",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 12
+    },
+    {
       "id": 18153,
       "title": "Kyoukai no Kanata",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/85468.jpg?s=edff74399086c4b64345a168f5437333",
@@ -6158,7 +6168,7 @@
       "url": "https://myanimelist.net/anime/56733/Magical★Explorer",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 3,
       "episodes_total": 13
     },
     {
@@ -8668,7 +8678,7 @@
       "url": "https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
