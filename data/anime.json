@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791876148,
+  "updated_at": 1791905741,
   "entries": [
     {
       "id": 63537,
@@ -3952,23 +3952,13 @@
       "episodes_total": 12
     },
     {
-      "id": 60260,
-      "title": "Hotel Inhumans",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1900/150443.jpg?s=10a009c28985b392421c98b2c1de5b5c",
-      "url": "https://myanimelist.net/anime/60260/Hotel_Inhumans",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 13
-    },
-    {
       "id": 62590,
       "title": "Hotel Inhumans 2nd Season",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1903/159928.jpg?s=89bf6669428084256f17529239044662",
       "url": "https://myanimelist.net/anime/62590/Hotel_Inhumans_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 13
     },
     {
@@ -4708,7 +4698,7 @@
       "url": "https://myanimelist.net/anime/52446/Kaiko_sareta_Ankoku_Heishi_30-dai_no_Slow_na_Second_Life",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 5,
       "episodes_total": 12
     },
     {
@@ -5176,6 +5166,16 @@
       "title": "Kengan Ashura",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1421/100770.jpg?s=d5b3b5ca334c7460ddabe303f60ec7ad",
       "url": "https://myanimelist.net/anime/36903/Kengan_Ashura",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 42072,
+      "title": "Kenja no Deshi wo Nanoru Kenja",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1583/119223.jpg?s=655f4ab47cb500f45cac6e32c6f9ae20",
+      "url": "https://myanimelist.net/anime/42072/Kenja_no_Deshi_wo_Nanoru_Kenja",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -9268,7 +9268,7 @@
       "url": "https://myanimelist.net/anime/63754/Shiotaiou_no_Satou-san_ga_Ore_ni_dake_Amai",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
@@ -9600,16 +9600,6 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 28
-    },
-    {
-      "id": 61174,
-      "title": "Sozai Saishuka no Isekai Ryokouki",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1289/151136.jpg?s=b9bb01ef5b042759fd96af02297a102d",
-      "url": "https://myanimelist.net/anime/61174/Sozai_Saishuka_no_Isekai_Ryokouki",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
     },
     {
       "id": 59027,
@@ -10950,6 +10940,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 37393,
+      "title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1205/111403.jpg?s=984b9c5827cb0ef3d7344bb694e3206e",
+      "url": "https://myanimelist.net/anime/37393/Watashi_Nouryoku_wa_Heikinchi_de_tte_Itta_yo_ne",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 4720,
@@ -12630,6 +12630,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 1
+    },
+    {
+      "id": 60260,
+      "title": "Hotel Inhumans",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1900/150443.jpg?s=10a009c28985b392421c98b2c1de5b5c",
+      "url": "https://myanimelist.net/anime/60260/Hotel_Inhumans",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
+      "episodes_total": 13
     },
     {
       "id": 58919,
@@ -14429,6 +14439,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 61174,
+      "title": "Sozai Saishuka no Isekai Ryokouki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1289/151136.jpg?s=b9bb01ef5b042759fd96af02297a102d",
+      "url": "https://myanimelist.net/anime/61174/Sozai_Saishuka_no_Isekai_Ryokouki",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 12,
       "episodes_total": 12
     },
     {
