@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791850206,
+  "updated_at": 1791876148,
   "entries": [
     {
       "id": 63537,
@@ -1002,6 +1002,36 @@
       "episodes_total": 12
     },
     {
+      "id": 269,
+      "title": "Bleach",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1541/147774.jpg?s=2eeabe02c547f8a8a136820d38e01551",
+      "url": "https://myanimelist.net/anime/269/Bleach",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 366
+    },
+    {
+      "id": 41467,
+      "title": "Bleach: Sennen Kessen-hen",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1908/135431.jpg?s=24488717244ab8cc42480c1aa6112244",
+      "url": "https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 53998,
+      "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1164/138058.jpg?s=b467905ab2f4cd8024aa9b8d0f2781d3",
+      "url": "https://myanimelist.net/anime/53998/Bleach__Sennen_Kessen-hen_-_Ketsubetsu-tan",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
       "id": 54793,
       "title": "Bloody Escape: Jigoku no Tousou Geki",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1043/139689.jpg?s=b1c917e1a3409a4cb3c3c15a6d015a21",
@@ -1390,6 +1420,46 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 33728,
+      "title": "Chain Chronicle: Haecceitas no Hikari Part 1",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/82495.jpg?s=5952818c2eb75417377c9da377545763",
+      "url": "https://myanimelist.net/anime/33728/Chain_Chronicle__Haecceitas_no_Hikari_Part_1",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
+      "id": 33729,
+      "title": "Chain Chronicle: Haecceitas no Hikari Part 2",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/10/83105.jpg?s=f8d7f336c75ad5a2b1886b54bbd6f40b",
+      "url": "https://myanimelist.net/anime/33729/Chain_Chronicle__Haecceitas_no_Hikari_Part_2",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
+      "id": 33730,
+      "title": "Chain Chronicle: Haecceitas no Hikari Part 3",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/83828.jpg?s=aa3b601b7d3bb36a6380c54379ca656c",
+      "url": "https://myanimelist.net/anime/33730/Chain_Chronicle__Haecceitas_no_Hikari_Part_3",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
+      "id": 25431,
+      "title": "Chain Chronicle: Short Animation",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/67751.jpg?s=5af8419011c9e64f9626f211cabfca29",
+      "url": "https://myanimelist.net/anime/25431/Chain_Chronicle__Short_Animation",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 8
     },
     {
       "id": 60057,
@@ -3892,6 +3962,16 @@
       "episodes_total": 13
     },
     {
+      "id": 62590,
+      "title": "Hotel Inhumans 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1903/159928.jpg?s=89bf6669428084256f17529239044662",
+      "url": "https://myanimelist.net/anime/62590/Hotel_Inhumans_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
       "id": 56425,
       "title": "Houkago Shounen Hanako-kun",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1530/138031.jpg?s=e5bf5ccdb883352bbcbf31b6733d3a7c",
@@ -4628,7 +4708,7 @@
       "url": "https://myanimelist.net/anime/52446/Kaiko_sareta_Ankoku_Heishi_30-dai_no_Slow_na_Second_Life",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 3,
       "episodes_total": 12
     },
     {
@@ -6052,6 +6132,16 @@
       "episodes_total": 12
     },
     {
+      "id": 40211,
+      "title": "Luo Xiaohei Zhanji (Movie)",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1583/108598.jpg?s=d4c98955796e9e5aa2d9afdec81402c9",
+      "url": "https://myanimelist.net/anime/40211/Luo_Xiaohei_Zhanji_Movie",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 51458,
       "title": "Lv1 Maou to One Room Yuusha",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1879/136721.jpg?s=c044ad09f412e2904566d827620452b2",
@@ -6446,6 +6536,16 @@
       "title": "Maou-sama, Retry! R",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1667/145393.jpg?s=4e1a71c5ae5df868502a675753a7e70b",
       "url": "https://myanimelist.net/anime/56400/Maou-sama_Retry_R",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 40397,
+      "title": "Maoujou de Oyasumi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1448/108514.jpg?s=c881086646e910515e62f811e75247d4",
+      "url": "https://myanimelist.net/anime/40397/Maoujou_de_Oyasumi",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -7492,6 +7592,16 @@
       "episodes_total": 12
     },
     {
+      "id": 56838,
+      "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1833/141321.jpg?s=725d5ef5e07ddd6114298321d6f15860",
+      "url": "https://myanimelist.net/anime/56838/One_Room_Hiatari_Futsuu_Tenshi-tsuki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 14199,
       "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/42111.jpg?s=da7f589f182ab8e7b6a1073559be99a7",
@@ -8130,6 +8240,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 19
+    },
+    {
+      "id": 6675,
+      "title": "Redline",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/28553.jpg?s=5f168c26fe6bc1773385286f6212c6a2",
+      "url": "https://myanimelist.net/anime/6675/Redline",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
     },
     {
       "id": 59443,
@@ -9772,6 +9892,16 @@
       "episodes_total": 12
     },
     {
+      "id": 45055,
+      "title": "Taishou Otome Otogibanashi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1662/118849.jpg?s=ab88e770f78dde626b4d8f73a0909d16",
+      "url": "https://myanimelist.net/anime/45055/Taishou_Otome_Otogibanashi",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 49942,
       "title": "Tales of Luminaria: The Fateful Crossroad",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1544/120624.jpg?s=8344cf6a46b308907a6eb31e932a9dee",
@@ -10182,6 +10312,26 @@
       "episodes_total": 24
     },
     {
+      "id": 8937,
+      "title": "Toaru Majutsu no Index II",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/9/75612.jpg?s=6f50ca854edea106df2b398c2a37fe6e",
+      "url": "https://myanimelist.net/anime/8937/Toaru_Majutsu_no_Index_II",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 24
+    },
+    {
+      "id": 36432,
+      "title": "Toaru Majutsu no Index III",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1583/93857.jpg?s=a944e6ca5801d339d3fc2eb91a2ff99f",
+      "url": "https://myanimelist.net/anime/36432/Toaru_Majutsu_no_Index_III",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 26
+    },
+    {
       "id": 11743,
       "title": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1885/93861.jpg?s=1270912b7b848c31b020e6769e454cad",
@@ -10416,6 +10566,16 @@
       "title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1997/131327.jpg?s=5519938aeb8d7192ab6510968deefd54",
       "url": "https://myanimelist.net/anime/50652/Tsundere_Akuyaku_Reijou_Liselotte_to_Jikkyou_no_Endou-kun_to_Kaisetsu_no_Kobayashi-san",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 34902,
+      "title": "Tsurezure Children",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/86676.jpg?s=bea0921f7e1b65a8f576e641e72d02c9",
+      "url": "https://myanimelist.net/anime/34902/Tsurezure_Children",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
