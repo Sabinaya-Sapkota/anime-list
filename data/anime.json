@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791976448,
+  "updated_at": 1791995708,
   "entries": [
     {
       "id": 63537,
@@ -1126,6 +1126,16 @@
       "title": "Bokura wa Minna Kawai-sou",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1257/145479.jpg?s=d8bcf1a94badc1af56f1c147bf8f2472",
       "url": "https://myanimelist.net/anime/21405/Bokura_wa_Minna_Kawai-sou",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 40904,
+      "title": "Bokutachi no Remake",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1871/118309.jpg?s=419869a158b779a70e64e39f8ad50a59",
+      "url": "https://myanimelist.net/anime/40904/Bokutachi_no_Remake",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
