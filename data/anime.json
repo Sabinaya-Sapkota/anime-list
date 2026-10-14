@@ -1,5 +1,5 @@
 {
-  "updated_at": 1791956993,
+  "updated_at": 1791976448,
   "entries": [
     {
       "id": 63537,
@@ -9142,16 +9142,6 @@
       "episodes_total": 12
     },
     {
-      "id": 44037,
-      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1723/117854.jpg?s=fe6004f129a34f0ee1ba3e1c2eff09c5",
-      "url": "https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 13
-    },
-    {
       "id": 53488,
       "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1873/139792.jpg?s=0ae7cb627994af20eccb13b1291c0474",
@@ -14199,6 +14189,16 @@
       "status": "completed",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 44037,
+      "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1723/117854.jpg?s=fe6004f129a34f0ee1ba3e1c2eff09c5",
+      "url": "https://myanimelist.net/anime/44037/Shin_no_Nakama_ja_Nai_to_Yuusha_no_Party_wo_Oidasareta_node_Henkyou_de_Slow_Life_suru_Koto_ni_Shimashita",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
       "episodes_total": 13
     },
     {
