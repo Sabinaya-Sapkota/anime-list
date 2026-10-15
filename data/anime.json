@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792072667,
+  "updated_at": 1792087674,
   "entries": [
     {
       "id": 63537,
@@ -3230,6 +3230,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 43
+    },
+    {
+      "id": 133,
+      "title": "Green Green",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/7/75251.jpg?s=7f879fc2f42ce6c944330a7f10f4eaf3",
+      "url": "https://myanimelist.net/anime/133/Green_Green",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 56189,
