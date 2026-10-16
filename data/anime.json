@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792128473,
+  "updated_at": 1792147481,
   "entries": [
     {
       "id": 63537,
@@ -7280,6 +7280,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 13
+    },
+    {
+      "id": 38924,
+      "title": "Nekopara",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1716/104880.jpg?s=78dacfe9aa862863f3435ece3370d6dc",
+      "url": "https://myanimelist.net/anime/38924/Nekopara",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 14293,
