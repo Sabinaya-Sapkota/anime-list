@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792218891,
+  "updated_at": 1792236191,
   "entries": [
     {
       "id": 63537,
@@ -830,6 +830,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 26
+    },
+    {
+      "id": 37584,
+      "title": "Bakumatsu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1764/95110.jpg?s=04c57b55a5354fd4370d56fc31fec386",
+      "url": "https://myanimelist.net/anime/37584/Bakumatsu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 30795,
@@ -3969,6 +3979,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 63293,
+      "title": "Hotaru no Yomeiri",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1172/159893.jpg?s=e54eefc0cbe4ddea0ae6e3b1574d1447",
+      "url": "https://myanimelist.net/anime/63293/Hotaru_no_Yomeiri",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -8892,6 +8912,16 @@
       "episodes_total": 13
     },
     {
+      "id": 37571,
+      "title": "Senjuushi",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1357/95039.jpg?s=da86ee8e601e56b1a01c4a1ec2599f43",
+      "url": "https://myanimelist.net/anime/37571/Senjuushi",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 11751,
       "title": "Senki Zesshou Symphogear",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/75580.jpg?s=e6f6ec17d410fb204754bf29c81d4ebe",
@@ -10298,7 +10328,7 @@
       "url": "https://myanimelist.net/anime/61014/Toaru_Anbu_no_Item",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 2,
       "episodes_total": 0
     },
     {
