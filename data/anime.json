@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792301210,
+  "updated_at": 1792319169,
   "entries": [
     {
       "id": 63537,
@@ -940,6 +940,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 15
+    },
+    {
+      "id": 39195,
+      "title": "Beastars",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1713/145599.jpg?s=5e43bb0d9bbc7972e7a3c6ab94054b68",
+      "url": "https://myanimelist.net/anime/39195/Beastars",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 13535,
@@ -6316,6 +6326,16 @@
       "title": "Mahoromatic: Automatic Maiden",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/23051.jpg?s=50ef151fb4aebf39fe31b66fb1eb9882",
       "url": "https://myanimelist.net/anime/276/Mahoromatic__Automatic_Maiden",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 19769,
+      "title": "Mahou Sensou",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/58103.jpg?s=2b95b1d0ceee3458d013ac9f43fe3d98",
+      "url": "https://myanimelist.net/anime/19769/Mahou_Sensou",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
