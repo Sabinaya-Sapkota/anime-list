@@ -1,5 +1,5 @@
 {
-  "updated_at": 1792675685,
+  "updated_at": 1792693087,
   "entries": [
     {
       "id": 63537,
@@ -3170,6 +3170,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 6
+    },
+    {
+      "id": 17895,
+      "title": "Golden Time",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/52091.jpg?s=da5411ff215d58625a8c0ed4168b9297",
+      "url": "https://myanimelist.net/anime/17895/Golden_Time",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 24
     },
     {
       "id": 49345,
