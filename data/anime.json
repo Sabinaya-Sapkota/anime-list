@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793063352,
+  "updated_at": 1793085571,
   "entries": [
     {
       "id": 63537,
@@ -1898,7 +1898,7 @@
       "url": "https://myanimelist.net/anime/63509/Dark_Summoner_to_Dekiteiru",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 1,
+      "episodes_watched": 2,
       "episodes_total": 12
     },
     {
@@ -2350,6 +2350,36 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 27833,
+      "title": "Durarara!!x2 Ketsu",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/6/77838.jpg?s=379947d60189090cf7439557aaf54c1e",
+      "url": "https://myanimelist.net/anime/27833/Durararax2_Ketsu",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 23199,
+      "title": "Durarara!!x2 Shou",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/12/67743.jpg?s=7b93f5bf534e2280ecef0300f78c55c0",
+      "url": "https://myanimelist.net/anime/23199/Durararax2_Shou",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 27831,
+      "title": "Durarara!!x2 Ten",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/8/74981.jpg?s=2af469e66f44591cab47f4767d83f556",
+      "url": "https://myanimelist.net/anime/27831/Durararax2_Ten",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
     },
     {
       "id": 42192,
