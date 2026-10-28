@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793160333,
+  "updated_at": 1793185097,
   "entries": [
     {
       "id": 63537,
@@ -9220,6 +9220,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 7724,
+      "title": "Shiki",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1531/119165.jpg?s=d27ec002981a83c031b782c4ca547b15",
+      "url": "https://myanimelist.net/anime/7724/Shiki",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 22
     },
     {
       "id": 38440,
