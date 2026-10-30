@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793347500,
+  "updated_at": 1793374392,
   "entries": [
     {
       "id": 63537,
@@ -4048,7 +4048,7 @@
       "url": "https://myanimelist.net/anime/62590/Hotel_Inhumans_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 4,
       "episodes_total": 13
     },
     {
@@ -5748,7 +5748,7 @@
       "url": "https://myanimelist.net/anime/64534/Koori_no_Jouheki_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 3,
+      "episodes_watched": 5,
       "episodes_total": 0
     },
     {
@@ -8842,6 +8842,36 @@
       "episodes_total": 24
     },
     {
+      "id": 32032,
+      "title": "Seikaisuru Kado",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/3/85255.jpg?s=cc97ca44c7ea1b1543bf55192698aac1",
+      "url": "https://myanimelist.net/anime/32032/Seikaisuru_Kado",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
+      "id": 37922,
+      "title": "Seikaisuru Kado: Beyond Information",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1033/138197.jpg?s=df622727d6fb75eb673b6c29b8b2406d",
+      "url": "https://myanimelist.net/anime/37922/Seikaisuru_Kado__Beyond_Information",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
+      "id": 35369,
+      "title": "Seikaisuru Kado: Ninovo",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/2/85175.jpg?s=b1e8207c11bff5442538393c536b770a",
+      "url": "https://myanimelist.net/anime/35369/Seikaisuru_Kado__Ninovo",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 1
+    },
+    {
       "id": 49304,
       "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1637/123397.jpg?s=43897b5f247f8050c801d5b1b54e3ab0",
@@ -8919,6 +8949,16 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 2,
+      "episodes_total": 12
+    },
+    {
+      "id": 11763,
+      "title": "Sekai de Ichiban Tsuyoku Naritai!",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/11/52633.jpg?s=2ea7a60bed7d04dba88b03bc62c8a530",
+      "url": "https://myanimelist.net/anime/11763/Sekai_de_Ichiban_Tsuyoku_Naritai",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
       "episodes_total": 12
     },
     {
@@ -10088,7 +10128,7 @@
       "url": "https://myanimelist.net/anime/63751/Tank_Chair",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 4,
       "episodes_total": 0
     },
     {
@@ -10289,7 +10329,7 @@
       "status": "watching",
       "score": 0,
       "episodes_watched": 5,
-      "episodes_total": 0
+      "episodes_total": 12
     },
     {
       "id": 61153,
@@ -11568,7 +11608,7 @@
       "url": "https://myanimelist.net/anime/62753/Yowaki_Max_Reijou_nanoni_Ratsuwan_Konyakusha-sama_no_Kake_ni_Notte_Shimatta",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 2,
+      "episodes_watched": 4,
       "episodes_total": 12
     },
     {
