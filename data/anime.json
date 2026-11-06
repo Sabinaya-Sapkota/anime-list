@@ -1,5 +1,5 @@
 {
-  "updated_at": 1793950786,
+  "updated_at": 1793979596,
   "entries": [
     {
       "id": 63537,
@@ -520,6 +520,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 24
+    },
+    {
+      "id": 65009,
+      "title": "Aoki Denshou Welsh & Shedar",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1360/160091.jpg?s=7f4f2e1c7abdbe747433a89e9d6af3f7",
+      "url": "https://myanimelist.net/anime/65009/Aoki_Denshou_Welsh___Shedar",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 1,
+      "episodes_total": 0
     },
     {
       "id": 40532,
@@ -2010,6 +2020,16 @@
       "score": 0,
       "episodes_watched": 2,
       "episodes_total": 12
+    },
+    {
+      "id": 63045,
+      "title": "Demons' Crest",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1551/158889.jpg?s=43e5d26f7379708fc4946fcba004fa16",
+      "url": "https://myanimelist.net/anime/63045/Demons_Crest",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 2,
+      "episodes_total": 0
     },
     {
       "id": 8086,
