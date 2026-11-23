@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795391981,
+  "updated_at": 1795418398,
   "entries": [
     {
       "id": 63537,
@@ -4068,7 +4068,7 @@
       "url": "https://myanimelist.net/anime/62590/Hotel_Inhumans_2nd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 13
     },
     {
@@ -6692,16 +6692,6 @@
       "episodes_total": 12
     },
     {
-      "id": 62601,
-      "title": "Marriagetoxin",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1184/160914.jpg?s=e2d677ff2545df140222d93081ea16a0",
-      "url": "https://myanimelist.net/anime/62601/Marriagetoxin",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 5,
-      "episodes_total": 13
-    },
-    {
       "id": 64326,
       "title": "Marronnier Oukoku no Shichinin no Kishi",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1678/160198.jpg?s=12f1a8e140783940d9c6554444db2ae0",
@@ -6928,7 +6918,7 @@
       "url": "https://myanimelist.net/anime/60948/Mezametara_Saikyou_Soubi_to_Uchuusenmochi_Datta_node_Ikkodate_Mezashite_Youhei_toshite_Jiyuu_ni_Ikitai",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 8,
       "episodes_total": 13
     },
     {
@@ -9408,7 +9398,7 @@
       "url": "https://myanimelist.net/anime/63292/Shinja_Zero_no_Megami-sama_to_Hajimeru_Isekai_Kouryaku",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 6,
+      "episodes_watched": 7,
       "episodes_total": 12
     },
     {
@@ -10258,7 +10248,7 @@
       "url": "https://myanimelist.net/anime/64340/Tempal__Item_no_Chikara",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 7,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -10348,7 +10338,7 @@
       "url": "https://myanimelist.net/anime/60601/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_3rd_Season",
       "status": "watching",
       "score": 0,
-      "episodes_watched": 8,
+      "episodes_watched": 9,
       "episodes_total": 12
     },
     {
@@ -13630,6 +13620,16 @@
       "score": 0,
       "episodes_watched": 0,
       "episodes_total": 12
+    },
+    {
+      "id": 62601,
+      "title": "Marriagetoxin",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1184/160914.jpg?s=e2d677ff2545df140222d93081ea16a0",
+      "url": "https://myanimelist.net/anime/62601/Marriagetoxin",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 13,
+      "episodes_total": 13
     },
     {
       "id": 37377,
