@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795495027,
+  "updated_at": 1795534314,
   "entries": [
     {
       "id": 63537,
@@ -10,6 +10,26 @@
       "score": 0,
       "episodes_watched": 5,
       "episodes_total": 12
+    },
+    {
+      "id": 55791,
+      "title": "[Oshi no Ko] 2nd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1006/143302.jpg?s=b553cf7ccbda969b973783ddb59463d8",
+      "url": "https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 13
+    },
+    {
+      "id": 60058,
+      "title": "[Oshi no Ko] 3rd Season",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1979/153329.jpg?s=f210d53288f5ec35ce6a5d6436a31b94",
+      "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 11
     },
     {
       "id": 62524,
@@ -1372,6 +1392,16 @@
       "episodes_total": 11
     },
     {
+      "id": 10578,
+      "title": "C³",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/32285.jpg?s=9d099da5894d31d9154ff403cf09910d",
+      "url": "https://myanimelist.net/anime/10578/C³",
+      "status": "watching",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 61649,
       "title": "Caishen Dou Zhanlong",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1454/156919.jpg?s=0598f266200b817f6b2dcd391c34015f",
@@ -1426,16 +1456,6 @@
       "title": "Carnival Phantasm",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1018/92921.jpg?s=cdd4cb65c1f8fac9a5959b75910879d4",
       "url": "https://myanimelist.net/anime/10012/Carnival_Phantasm",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
-    },
-    {
-      "id": 10578,
-      "title": "C³",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/13/32285.jpg?s=9d099da5894d31d9154ff403cf09910d",
-      "url": "https://myanimelist.net/anime/10578/C³",
       "status": "watching",
       "score": 0,
       "episodes_watched": 0,
@@ -11972,23 +11992,13 @@
       "episodes_total": 12
     },
     {
-      "id": 55791,
-      "title": "[Oshi no Ko] 2nd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1006/143302.jpg?s=b553cf7ccbda969b973783ddb59463d8",
-      "url": "https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season",
-      "status": "watching",
+      "id": 52034,
+      "title": "[Oshi no Ko]",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1812/134736.jpg?s=49b7c1afde7e4ba8040a1a4e17d9c70f",
+      "url": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
+      "status": "completed",
       "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 13
-    },
-    {
-      "id": 60058,
-      "title": "[Oshi no Ko] 3rd Season",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1979/153329.jpg?s=f210d53288f5ec35ce6a5d6436a31b94",
-      "url": "https://myanimelist.net/anime/60058/Oshi_no_Ko_3rd_Season",
-      "status": "watching",
-      "score": 0,
-      "episodes_watched": 0,
+      "episodes_watched": 11,
       "episodes_total": 11
     },
     {
@@ -12140,16 +12150,6 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 1
-    },
-    {
-      "id": 58216,
-      "title": "Übel Blatt",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1647/146961.jpg?s=877f4726867f7ff5764b847835fbd93b",
-      "url": "https://myanimelist.net/anime/58216/Übel_Blatt",
-      "status": "completed",
-      "score": 0,
-      "episodes_watched": 0,
-      "episodes_total": 12
     },
     {
       "id": 50854,
@@ -15072,6 +15072,16 @@
       "episodes_total": 1
     },
     {
+      "id": 58216,
+      "title": "Übel Blatt",
+      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1647/146961.jpg?s=877f4726867f7ff5764b847835fbd93b",
+      "url": "https://myanimelist.net/anime/58216/Übel_Blatt",
+      "status": "completed",
+      "score": 0,
+      "episodes_watched": 0,
+      "episodes_total": 12
+    },
+    {
       "id": 48580,
       "title": "Vanitas no Karte",
       "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1401/118483.jpg?s=c5fe041d0e84bbea31582a49463a2895",
@@ -15280,16 +15290,6 @@
       "score": 0,
       "episodes_watched": 1,
       "episodes_total": 1
-    },
-    {
-      "id": 52034,
-      "title": "[Oshi no Ko]",
-      "image": "https://cdn.myanimelist.net/r/192x272/images/anime/1812/134736.jpg?s=49b7c1afde7e4ba8040a1a4e17d9c70f",
-      "url": "https://myanimelist.net/anime/52034/Oshi_no_Ko",
-      "status": "completed",
-      "score": 0,
-      "episodes_watched": 11,
-      "episodes_total": 11
     },
     {
       "id": 61967,
